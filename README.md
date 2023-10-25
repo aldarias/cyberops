@@ -1,6 +1,4 @@
-Cisco Devnet
-
-Cyberops Associate 1.0
+Cisco Cyberops Associate 1.0
 
 Apuntes de apoyo
 
