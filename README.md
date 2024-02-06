@@ -8,6 +8,8 @@ Reconocimiento-NoComercial-CompartirIgual.
 
 * v1.0
 	* Fecha: 25-10-2023 Versión inicial
+* v2.0
+	* Fecha: 2-2-2024 Revisión 1
 
 Por Paco Aldarias Raya
 
