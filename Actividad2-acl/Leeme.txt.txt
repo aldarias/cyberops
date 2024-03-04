@@ -1,10 +1,10 @@
 Hola a tod@s
 
-La versión de la práctica de laboratorio 12.3.4. en castellano de la web, posiblemente no funcion con packet tracert 8.2. e
+La versión de la práctica de laboratorio 12.3.4. en castellano de la web, posiblemente no funciona con packet tracert 8.2.
 
 Pero el fichero que os he dejado aqui en español sí. 
 
-El fichero en español que funciona, esta sacada de los recursos on-line de cisco cyberops. 
+El fichero en español que funciona, esta sacado de los recursos on-line de cisco cyberops. 
 
 Un saludo
 Paco Aldarias
