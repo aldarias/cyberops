@@ -19,4 +19,4 @@ francisco.aldarias@aulamentor.es
 
 Otras fuentes:
 
-[Study Guide + Book] (https://github.com/gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide)
+[Study Guide + Book](https://github.com/gothburz/200-201-CBROPS-Cisco-Certified-CyberOps-Associate-Study-Guide)
