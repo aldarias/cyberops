@@ -1,0 +1,10 @@
+
+Errata en el enlace:
+En el módulo 13-14 al pinchar en el enlace se abre en ingles. 
+Esta apuntando a la ruta https://contenthub.netacad.com/cyberops/13.0.1?lng=es
+
+Solución 1:
+Añadir "-XL" a la ruta, que es como estaban los cursos anteriores. https://contenthub.netacad.com/cyberops/11.0.1?lng=es-XL
+
+Solución 2:
+Cambiar el idioma pulsando la bola del mundo.
