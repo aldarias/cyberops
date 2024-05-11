@@ -1,7 +1,7 @@
 
 
 Errata 1: Error en el enlace.
-En el módulo 13-14 al pinchar en el enlace se abre en ingles. 
+En el módulo 13 al pinchar en el enlace se abre en ingles. 
 Esta apuntando a la ruta https://contenthub.netacad.com/cyberops/13.0.1?lng=es
 
 Solución 1:
