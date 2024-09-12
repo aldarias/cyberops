@@ -4,3 +4,5 @@ https://contenthub.netacad.com/cyberops/10.4.3
 Al intentar acceder al servidor FTP con el usuario "anonymous" no deja.
 Cuando se intenta acceder aparece Error 331
 Habría que poner un servidor ftp válido o cambiar de servicio de internet.
+Encontrado servidor ftp publico que funciona:  ftp.informatik.rwth-aachen.de
+Adjuntada captura de un cliente ftp conectado a  ftp.informatik.rwth-aachen.de
