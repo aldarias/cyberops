@@ -16,7 +16,7 @@ Reconocimiento-NoComercial-CompartirIgual.
 - v2.0
     * Fecha: Revisión 1.1. 2-2-2024 
 - v3.0
-    * Fecha: Revisión 2. 2-9-2024 
+    * Fecha: Versión 2. 2-9-2024 
     
 
 ## Autor
