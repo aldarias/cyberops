@@ -1,0 +1,35 @@
+Migrar de OVA a Proxmox
+
+
+
+1. Descomprimos ova en pve (Proxmox Virtual Enviroment)
+
+Copiaremos los ficheros ova en la VM.
+tar xvf cyberops_workstation.ova
+
+
+Esto nos dejará tres archivos:
+CyberOps Workstation.ovf
+CyberOps Workstation-disk001.vmdk
+CyberOps Workstation-disk002.vmdk
+CyberOps Workstation.mf
+
+El archivo ovf contiene la descripción e la máquina virtual
+
+
+2. Importamos ovf
+
+Ejecutaremos el comando qm importovf
+
+cd ovas/
+qm importovf 111 CyberOps\ Workstation.ovf local-lvm --dryrun
+
+Siendo 111 es vmid es el ide nuestra nueva máquina,  cyberops_workstation.ovf es el archivo ovf y local-lvm es el almacenamiento destino.
+Hacemos con --dryrun nos permite comprobar que todo está correcto.
+
+!! No funcióna !!
+
+Funciona llevar los ficheros de VirtualBox a Proxmox
+
+Fuente:
+https://tecnocratica.net/wikicratica/books/proxmox-ve/page/migrar-de-ova-a-proxmox
