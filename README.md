@@ -12,11 +12,11 @@ Reconocimiento-NoComercial-CompartirIgual.
 ## Versiones
 
 - v1.0
-    * Fecha: 25-10-2023 Versión inicial
+    * Fecha: Versión 1. 25-10-2023
 - v2.0
-    * Fecha: 2-2-2024 Revisión 1
+    * Fecha: Revisión 1.1. 2-2-2024 
 - v3.0
-    * Fecha: 2-9-2024 Revisión 2    
+    * Fecha: Versión 2. 2-9-2024 
     
 
 ## Autor

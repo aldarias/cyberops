@@ -1,0 +1,50 @@
+CISCO CYBERTOPS
+Fecha: 20.9.2024
+Por: Paco Aldarias
+1.1.5 Práctica de laboratorio - Instalar las máquinas virtuales
+
+
+0. Introducción
+Debemos instalar VirtualBox y luego maquina virtual de cyberops.
+
+
+1 Requisitos hw
+Requisitos para la instalación de la MV
+
+Entrar en Netacad - Contenido - Recursos - CA v1.0 Release Notes.pdf
+
+Computadora (host) con procesador de 64 bits, al menos 8 GB de RAM y 45
+GB de espacio libre en disco 
+
+
+Tabla 2. VM CyberOps Workstation 1 GB 20 GB analyst cyberops
+
+
+2. Instalación de VirtualBox
+Versión más reciente de Oracle VirtualBox:
+http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.htm
+
+Oracle VM VirtualBox Base Packages - 7.0.20
+Freely available for Windows, Mac OS X, Linux and Solaris x86 platforms under GPLv3: 
+
+
+
+3 Instalar el .ova en VirtualBox.
+
+Descargar el fichero .ova para la maquina virtula (MV) Virtualvox.
+Entrar en Netacad - Contenido - Recursos - Cybersecurity Lab VM Worksation / Onion
+
+Requisitos:
+Para la maquina virtual Cyberops Workstation se recomienda
+Con 1 procesador y 2GB de ram es suficiente. 
+
+Para la maquina virtual Cyberops Onion se recomienda
+Con 3 procesador y 4GB de ram 
+
+
+
+5. Bibliografía
+
+1. Instalación de Maquina Virtual CyberOps WorkStation, Curso de CyberOps 
+Este video se basa el la versión antigua de netacad
+https://www.youtube.com/watch?v=-CBVTE33b9U
