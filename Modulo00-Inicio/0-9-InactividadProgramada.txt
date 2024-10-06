@@ -11,7 +11,7 @@ para el tiempo de inactividad regular que lo ayudará a planificar en consecuenc
 
 A continuación, se detallan estos períodos de inactividad planificados.
 
-Aclaración:
+Aclaración de que es PDT y UTC:
 
 PDT: Pacific Daylight Time. Son 9h más que en la peninsula española.
 Fuente: https://www.worldtimebuddy.com/pdt-to-spain-madrid
@@ -20,8 +20,7 @@ UTC: Coordinated Universal Time
 Spain mainly uses CET (UTC+01:00) in Peninsular Spain, Ceuta, Melilla and the plazas de soberanía. 
 In the Canary Islands, the time zone is WET (UTC±00:00).
 
-
- [HEE:Hora en España Peninsula] Pongo entre corchetes la hora española.
+[HEE:Hora en España Peninsula] Pongo entre corchetes la hora española.
 
 Programa de tiempo de inactividad
 
