@@ -11,17 +11,17 @@ Copiaremos los ficheros ova en la VM.
 tar xvf Spanish_Cybersecurity_Lab_VM_Worksation.ova
 
 
-Esto nos dejará tres archivos:
+Esto nos dejará estos archivos:
 Cybersecurity LabVM Worksation 20230210.ovf
 Cybersecurity LabVM Worksation 20230210-disk001.vmdk
 Cybersecurity LabVM Worksation 20230210-disk002.vmdk
 Cybersecurity LabVM Worksation 20230210.mf
 
 
-El archivo ovf contiene la descripción e la máquina virtual
-
 
 2. Vemos la descripción de manifiesto
+
+El archivo mf contiene la descripción e la máquina virtual
 
 cat Cybersecurity\ LabVM\ Worksation\ 20230210.mf 
   <VirtualSystem ovf:id="Cybersecurity LabVM Worksation 20230210">
