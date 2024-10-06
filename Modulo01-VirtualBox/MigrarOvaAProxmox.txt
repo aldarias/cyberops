@@ -1,0 +1,59 @@
+-Migrar de OVA a Proxmox
+
+
+0. Descargamos los ficheros .ova y los copiamos en pve dentro de /root/ovas
+
+cd ovas/
+
+1. Descomprimos ova en pve (Proxmox Virtual Enviroment)
+
+Copiaremos los ficheros ova en la VM.
+tar xvf Spanish_Cybersecurity_Lab_VM_Worksation.ova
+
+
+Esto nos dejará tres archivos:
+Cybersecurity LabVM Worksation 20230210.ovf
+Cybersecurity LabVM Worksation 20230210-disk001.vmdk
+Cybersecurity LabVM Worksation 20230210-disk002.vmdk
+Cybersecurity LabVM Worksation 20230210.mf
+
+
+El archivo ovf contiene la descripción e la máquina virtual
+
+
+2. Vemos la descripción de manifiesto
+
+cat Cybersecurity\ LabVM\ Worksation\ 20230210.mf 
+  <VirtualSystem ovf:id="Cybersecurity LabVM Worksation 20230210">
+
+
+3. Importamos ovf
+
+Ejecutaremos el comando qm importovf
+
+qm importovf <vmid> <manifest> <storage> [OPTIONS]
+
+qm importovf 112 Cybersecurity\ LabVM\ Worksation\ 20230210.ovf local-lvm
+
+Siendo 112 es vmid es el ide nuestra nueva máquina,  cyberops_workstation.ovf es el archivo ovf y local-lvm es el almacenamiento destino.
+Hacemos con --dryrun nos permite comprobar que todo está correcto.
+
+
+
+4. Importamos discos
+
+qm disk import <vmid> <source> <storage> [OPTIONS]
+
+qm disk import  112 Cybersecurity\ LabVM\ Worksation\ 20230210-disk001.vmdk  local-lvm
+
+qm disk import  112 Cybersecurity\ LabVM\ Worksation\ 20230210-disk002.vmdk  local-lvm
+
+
+5. Ir a la máquina virtual y añadir la tarjeta de red y activar los discos duros importados.
+
+
+Fuente:
+https://tecnocratica.net/wikicratica/books/proxmox-ve/page/migrar-de-ova-a-proxmox
+
+
+
