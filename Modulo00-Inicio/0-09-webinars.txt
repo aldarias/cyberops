@@ -1,7 +1,9 @@
-Reuniones con webex
-===================
+Webinars: Reuniones con webex
+=============================
 
 Hola a tod@s
+
+Un webinar es un contenido formativo en formato vídeo que se imparte a través de internet. Web + seminario = webinar.
 
 Las reuniones con webex las pongo cuando os pueden ayudar y yo puedo hacerlas.  Las grabo para aquellos que no podais asistir. Yo tengo un horario que debo cumplir en un centro educativo.
 
@@ -19,7 +21,7 @@ Planificación de reuniones webex:
 
 ++++++++++++++++++++++++++++
 
-1. Presentacion Vie 13 SEP
+1. Presentación Vie 13 SEP
 
 2. Lab 1. VM Vie  20 SEP
 
