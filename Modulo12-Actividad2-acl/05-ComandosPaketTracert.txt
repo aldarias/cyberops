@@ -1,0 +1,31 @@
+COMANDOS PACKET TRACERT
+*************************
+
+Para entrar a la linea de comandos de un pc es:
+Abrir PC - Desktop - Command Prompt Run
+
+Para entrar en la linea de comandos de un router es
+Abrir Router - CLI 
+
+
+PC:
+Saber la ip: ipconfing
+Tabla de rutas: route
+Saber ruta: traceroute
+
+
+ROUTER:
+Saber la ip forma larga:  show ip interface brief 
+Saber la ip forma larga forma corta: sh ip int bri
+Ver tabla rutas: show ip route
+Ver la configuración interna: sh running config 
+Ver la configuración interna forma corta: sh run con
+Ver acls: show access-lists
+
+Entrar en modo privilegiado: enable
+Entrar en modo configuración: configure terminal
+Entrar en un interface: interface <id-int>
+Borrar lista acl: no ip access-list <numero>
+
+
+
