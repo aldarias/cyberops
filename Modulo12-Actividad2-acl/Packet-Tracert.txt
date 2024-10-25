@@ -1,0 +1,31 @@
+
+PACKET TRACERT
+
+
+1. Descarga.  25.10.2024.
+
+Packet tracert es un simulador de redes cisco. Es importante que todos gastemos la misma versión ya que la versión 8.2.1 no abre los ficheros de la versión 8.2.2.
+
+Cisco Packet Tracer 8.2.2 puede descargarse GRATIS desde la página oficial de Cisco Netacad. Inicia sesión en el sitio web de aprendizaje Cisco Netacad.com.
+
+Entra entra Netacad Legacy y selecciona Resources > Packet Tracer en el menú para acceder a la página de descarga.
+
+
+Aqui teneis el enlace directo:
+
+https://legacy.netacad.com/portal/resources/packet-tracer
+
+
+
+
+2. Posible problema de validación en Packet Tracert. Fecha:  7/10/2024
+
+Cuando se intenta abrir un fichero de PT,  sale validarse. Se hace como si se entrara en la plataforma.
+Pero se no consigue que esa validación haga que el PT esté operativo. Con lo cual no puede realizar la práctica
+
+Si se vuelve a abrir el fichero no le guarda la validación que ha realizado sino que le sale nuevamente para validarse
+... y así una y otra vez
+
+Solucion:
+Si nos logueamos contra la legacy, no va. En cambio, si nos logueamos contra la nueva netacad, sí va el PT.
+
