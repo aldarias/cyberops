@@ -29,3 +29,5 @@ Si se vuelve a abrir el fichero no le guarda la validación que ha realizado sin
 Solucion:
 Si nos logueamos contra la legacy, no va. En cambio, si nos logueamos contra la nueva netacad, sí va el PT.
 
+Esta info se encuentra en el repositorio aqui:
+https://github.com/aldarias/cyberops/blob/main/Modulo12-Actividad2-acl/04-Packet-Tracert.txt
