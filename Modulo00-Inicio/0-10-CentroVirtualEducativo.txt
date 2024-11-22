@@ -1,0 +1,23 @@
+Centro virtual de educación
+Breve explicación
+21-11-2024
+
+El centro virtual de educación (cve) de mentor es una plataforma web dependiente directamente de mentor.
+
+Su dirección de internet es: https://www.aulamentor.es/
+
+Todos los alumnos de mentor tienen un usuario y una contraseña, que les permite acceder a los servicios de mentor, 
+y que le es enviada a su email privado al inicio del curso. Se entra donde dice acceso al centro virtual educación 
+(hay una llave de una puerta).
+
+Como servicios destacados para el alumno son:
+
+- Encuesta de satisfacción final del curso. Se realiza al final del curso.
+
+- Situación de pagos.
+
+- Datos de el aula.
+
+- Sistema de mensajería entre aulas, alumnos y documentos. Yo utilizo más mi email ya que permite adjuntos.
+
+Un saludo
