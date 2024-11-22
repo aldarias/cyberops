@@ -19,8 +19,13 @@ Es por ello que el alumno debe revisar su pagos realizados en cve.
 
 Todos los años hay alumnos que no renuevan en la fecha prevista. 
 
+Acciones que se van tomar:
+
 1. Se avisará la semana siguiente de renovación de pagos a aquellos alumnos que estén morosos.
-2. Un semana después se pasará de estado inscrito a suspendido sino se justifiquen el pago.
+
+2. Un semana después se pasará de estado inscrito a suspendido sino se justifiquen el pago. 
+Esto impedirá el acceso al curso.
+
 3. El examen final no podrá hacerlo sino está al corriente del pagos.
 
 
