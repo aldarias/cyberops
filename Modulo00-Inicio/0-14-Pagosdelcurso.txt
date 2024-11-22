@@ -23,7 +23,7 @@ Acciones que se van tomar:
 
 1. Se avisará la semana siguiente de renovación de pagos a aquellos alumnos que estén morosos.
 
-2. Un semana después se pasará de estado inscrito a suspendido sino se justifiquen el pago. 
+2. Una semana después se pasará de estado inscrito a suspendido sino se justifica el pago. 
 Esto impedirá el acceso al curso. Una vez se page se reactivará y podrá continuar por donde
 se quedo en el curso.
 
