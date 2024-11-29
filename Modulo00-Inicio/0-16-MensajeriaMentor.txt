@@ -10,7 +10,8 @@ http://www.aulamentor.es
 Pulsar sobre la llave que dice Acceso CVE
 Logearse - Mensajes,
 
-Este sistema se usa al inicio del curso. No permite adjuntos.
+Este sistema se usa al inicio del curso. Requiere entrar a la plataforma
+seguido para ver los mensajes envidos. No lo suelo gastar.
 
 2. Email de Mentor.
 Mediante el correo del profesor.
