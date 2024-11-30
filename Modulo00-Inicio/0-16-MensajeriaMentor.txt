@@ -1,0 +1,53 @@
+COMUNICACIÓN EN MENTOR
+**********************
+Por Paco Aldarias
+29-11-2024
+
+Existen las siguiente formas de comunicarse el alumno con el profesor en mentor.
+
+1. CVE. Accediendo al centro virtual de educación(CVE)
+http://www.aulamentor.es
+Pulsar sobre la llave que dice Acceso CVE
+Logearse - Mensajes,
+
+Este sistema se usa al inicio del curso. Requiere entrar a la plataforma
+seguido para ver los mensajes envidos. No lo suelo gastar.
+
+2. Email de Mentor.
+Mediante el correo del profesor.
+francisco.aldarias@aulamentor.es
+
+3. Mediante Webex
+
+Esto es mas un chat. Requiere vincular la cuenta de netacad con webex.
+
+Al entrar a webex saldra el team de tu clase.
+Este es el canal para dudas generales del cursos publicando en el team del grupo,
+o para dudas particulares haciendo un mensaje privado.
+
+
+3.1 Por netacad
+Entraremos a netacad. Esta versión de webex es limitada. Le faltan cosas. 
+Sólo se puede usar para leer o escribir mensajes.
+No permite crear teams, programar reuniones,etc.
+
+https://www.netacad.com/
+Iniciamos sesión.
+Pulsar el icono de webex que está en la parte inferior derecha.
+https://web.webex.com/meetings 
+
+3.2 Directamente por webex
+Instalar la aplicación webex o medianta la web de webex.
+ https://www.webex.com/es/downloads.html 
+
+
+4. Dentro de la clase
+Anuncios, que es un icono de una trompeta en la parte superior derecha.
+Es sólo para poner avisos el profesor. Se puede dejar anclado un sólo mensaje.
+Sólo escribe en profesor.
+Seria un foro de sólo lectura para el alumno.
+
+
+
+
+

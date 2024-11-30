@@ -7,7 +7,9 @@ El centro virtual de educación (cve) de mentor es una plataforma web dependient
 Su dirección de internet es: https://www.aulamentor.es/
 
 Todos los alumnos de mentor tienen un usuario y una contraseña, que les permite acceder a los servicios de mentor, 
-y que le es enviada a su email privado al inicio del curso. Se entra donde dice acceso al centro virtual educación 
+y que le es enviada a su email privado al inicio del curso.
+
+Se entra donde dice acceso al centro virtual educación
 (hay una llave de una puerta).
 
 Como servicios destacados para el alumno son:
@@ -18,6 +20,7 @@ Como servicios destacados para el alumno son:
 
 - Datos de el aula.
 
-- Sistema de mensajería entre aulas, alumnos y documentos. Yo utilizo más mi email ya que permite adjuntos.
+- Sistema de mensajería entre aulas, alumnos y documentos.
+Yo utilizo más mi email francisco.aldarias@aulamentor.es, ya que permite adjuntos.
 
 Un saludo
