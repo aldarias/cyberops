@@ -1,0 +1,16 @@
+VIDEOS DEL CURSO.
+
+
+Tema 0 Presentación 
+https://netacad.webex.com/netacad/ldr.php?RCID=5b03b1d4e0fc539269de9ee398b5eb11
+
+Tema 1. VirtualBox
+https://netacad.webex.com/webappng/sites/netacad/recording/a4d9fc67d2ad4d2a9daae3c29c6b5ca2/playback
+
+Tema 4. Práctica 1 Linux
+https://netacad.webex.com/webappng/sites/netacad/recording/7200a436856f4aeb91032205a9957063/playback?isEmbedded=false&mode=MomentumDark&lang=es-ES&meetingWebToken=80f138d7-0d1c-48ba-9312-bf2d7aa57c0c
+
+Tema 5. Wireshark
+https://netacad.webex.com/webappng/sites/netacad/recording/e55989929d884d29841a78ea6f227247/playback?isEmbedded=false&mode=MomentumDark&lang=es-ES&meetingWebToken=537b7e83-aeb2-463f-8dfe-68947c0541eb
+
+

@@ -1,0 +1,14 @@
+RECURSOS
+
+Repositorio. Aquí se encuentra toda la materia
+https://github.com/aldarias/cyberops
+
+Recopilatorio anuncios. Aquí se encuentran todos los avisos
+https://docs.google.com/document/d/15fBQBm_pZAw0Da322NxL2gaKJMnRrPhv8oA7oN9fOy4/edit?usp=sharing 
+
+
+Distribuciones de Linux para ciberseguridad:  
+https://github.com/aldarias/cyberops/blob/main/Modulo00-Inicio/0-10-Linux-Ciberseguidad.txt 
+
+Lista de correo ciberseguridad mentor.  
+https://groups.google.com/u/1/g/mentorcyberops 
