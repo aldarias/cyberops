@@ -1,0 +1,35 @@
+PREPARANDO EL EXAMEN FINAL
+Formulario de toma de datos.
+
+Hola a tod@s
+
+Quitadndo festivos, queda cerca de 1 mes para hacer los exámenes finales presenciales, en las aulas mentor, y
+teneis que decir que dia y hora podeis hacerlo. En fiestas las aulas mentor están cerradas.
+
+Este formulario es para organizar el examen final presencial de cisco. Hay que entrar en esta dirección y rellenar vuestros datos.
+https://docs.google.com/forms/d/e/1FAIpQLSdF81UHSz3rXCfS7K0Fra4OyQZcDXvAOpae2QE3dOM9c8xhNg/viewform?usp=sharing
+
+Los datos no se puede borrar. Si deseas hacer algún cambio deber volver a rellenarlo y tendrá prioridad 
+la última entrada introducida. 
+
+También teneis en el reposiutorio una carpeta llamada ExamenFinal-Preparacion que os
+informa como será el examen al final del aula o entrando aqui:
+
+https://github.com/aldarias/cyberops/tree/main/ExamenFinal-Preparacion
+
+Para hacer el examen hay que tener todos los tests y prácticas aprobadas. Pero con tiempo preparamos 
+las fechas del examen y recuperación. No te esperes al último dia para rellenar el formulario.
+
+Las fechas de los exámenes finales son los que tienes al inicio de la página web del curso:
+
+Los exámenes son la semana del 20 de Enero y la recuperación la semana del 27 de Enero.
+
+Yo prefiero hacer los exámenes el viernes tardes y el jueves mañanas. Pero sin podeis
+coger otro dia y hora.
+
+Dejar 1 semana de separación para que de tiempo a corregirlo y avisar. No siempre puedo
+corregir el dia después ya que tengo más exámenes y clases.
+
+Un saludo.
+
+Paco Aldarias.
