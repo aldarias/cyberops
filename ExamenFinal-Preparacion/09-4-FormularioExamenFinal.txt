@@ -19,8 +19,6 @@ Para hacer el examen hay que tener todos los tests y prácticas aprobadas. Pero 
 las fechas del examen y recuperación. No te esperes al último día para rellenar el formulario.
 
 Las fechas de los exámenes finales son los que tienes al inicio de la página web del curso:
-
-Los exámenes son las semanas finales que se indican la planificación del curso:
 https://github.com/aldarias/cyberops/blob/main/Modulo00-Inicio/0-01-Planing.png
 
 Yo prefiero hacer los exámenes el viernes tardes y el jueves mañanas. Pero si no podéis
