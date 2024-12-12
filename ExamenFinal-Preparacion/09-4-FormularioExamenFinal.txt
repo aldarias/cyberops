@@ -9,7 +9,7 @@ tenéis que decir que día y hora podéis hacerlo. En fiestas las aulas mentor e
 Este formulario es para organizar el examen final presencial de cisco. Hay que entrar en esta dirección y rellenar vuestros datos.
 https://docs.google.com/forms/d/e/1FAIpQLSdF81UHSz3rXCfS7K0Fra4OyQZcDXvAOpae2QE3dOM9c8xhNg/viewform?usp=sharing
 
-Los datos se pueden cambiar en el formulario hasta 3 días antes de la semana de exámenes. El sábado anterior a la semana de exámenes se activaran
+Los datos se pueden cambiar en el formulario hasta 4 días antes de la semana de exámenes. El viernes anterior a la semana de exámenes se activaran
 los exámenes en las fecha indicadas.
 
 También tenéis en el repositorio una carpeta llamada Examen Final Preparación que os
