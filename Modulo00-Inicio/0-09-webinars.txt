@@ -27,7 +27,7 @@ Planificación de reuniones webex:
 
 3. Prac 1. Linux Vie  27 SEP
 
-4. Módulo 5. Wireshak. 4 OCT
+4. Módulo 5. Wireshark. 4 OCT
 
 5. Prac 2. Modulo 12. ACLs Vie 25 OCT
 
