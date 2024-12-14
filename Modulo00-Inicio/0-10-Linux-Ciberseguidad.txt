@@ -24,6 +24,6 @@ Idiomas: Multilingüe
 Interfaz gráfica predeterminada: Xfce, GNOME y KDE
 
 
-
-
+Mejores distribuciones de linux para ciberseguridad:
+https://computerhoy.20minutos.es/ciberseguridad/mejores-distribuciones-linux-quieres-probar-algo-relacionado-ciberseguridad-1414271
 
