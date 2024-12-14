@@ -31,7 +31,7 @@ Planificación de reuniones webex:
 
 5. Prac 2. Modulo 12. ACLs Vie 25 OCT
 
-6. Prac 3. Modulo 21. SHA  Vie 13 DIC
+6. Prac 3. Modulo 21. Openssl.  Vie 13 DIC
 
 7. Prac 4. Módulo 26. Snort. Vie 10 ENE
 
