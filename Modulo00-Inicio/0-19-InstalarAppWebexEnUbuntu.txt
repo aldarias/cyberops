@@ -1,0 +1,28 @@
+INSTALACIÓN DE LA APP DE WEBEX EN UBUNTU 22.04
+Por Paco Aldarias
+El 22-12-2024
+
+1. Descargar la app de webex para ubuntu. Es un fichero .deb
+
+2. Instalarlo con:
+dpgk -i  fichero.deb
+
+3. Comprobar que ejecuta lo siguiente:
+/opt/Webex/bin/CiscoCollabHost %U
+
+4. Crear el fichero con el contenido que se indica:
+
+sudo nano /etc/apparmor.d/Webex
+
+abi <abi/4.0>,
+include <tunables/global>
+profile Webex /opt/Webex/bin/CiscoCollabHost flags=(unconfined) {
+userns,
+include if exists <local/Webex>
+}
+
+5. Reiniciar apparmor desde la terminal:
+sudo systemctl reload apparmor
+
+Fuente:
+https://community.cisco.com/t5/webex-meetings-and-webex-app/installing-webex-app-on-ubuntu-24-04/td-p/5163446
