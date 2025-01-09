@@ -44,8 +44,8 @@ Instalar la aplicación webex o medianta la web de webex.
 4. Dentro de la clase
 Anuncios, que es un icono de una trompeta en la parte superior derecha.
 Es sólo para poner avisos el profesor. Se puede dejar anclado un sólo mensaje.
-Sólo escribe en profesor.
-Seria un foro de sólo lectura para el alumno.
+Sólo escribe el profesor. Seria un foro de sólo lectura para el alumno.
+No envia los mensajes por email a los alumnos. 
 
 
 
