@@ -19,5 +19,4 @@ Video2. https://netacad.webex.com/webappng/sites/netacad/recording/aab9614470c74
 
 Tema 21	Video Práctica 3. Encriptación. 
 Grabación de reunión de Webex: CYBEROPS-S24-PA-20241213 1802-1
-Enlace de grabación: https://netacad.webex.com/netacad/ldr.php?RCID=1e5c1d85f2b249c95ee733cae384b625
-
+Enlace de grabación: https://netacad.webex.com/webappng/sites/netacad/recording/72a499d66314409182c093194e3b09b3/playback?isEmbedded=false&mode=MomentumDark&lang=es-ES&meetingWebToken=ca36eac5-19d5-40ce-a1f8-0a956065819f
