@@ -1,0 +1,21 @@
+ACTIVIDAD 4 - SNORT-WIRESHARK-IPTABLES
+******************************************
+Cosas que ayudan
+
+1. Usaremos la máquina virtual CyberOps Workstation
+
+2. VIRTUAL BOX. Configuración.  En red :  Modo Bridge
+
+3. Ubicación de los scripts en:   /home/analyst/lab.support.files/scripts
+
+4. Ejecutar como root: configure_as_dhcp.sh
+
+5. Ejecutar app python
+
+python3 cyberops_extended_topo_no_fw.py
+
+6. El fichero lo de snort esta en /var/log/snort
+Se encuentra en R1
+
+
+
