@@ -1,0 +1,45 @@
+EMISION DE CERTIFICADOS
+***********************
+
+Por lo visto, netacad ha impuesto un par de condiciones nuevas para poder
+generar los certificados de finalización de los cursos.
+ 
+Ahora no basta con que el *alumno complete un curso *y el* instructor lo
+marque como completado*, sino que el *alumno debe rellenar su perfil* de
+netacad con su nombre y apellidos, y además, el *alumno debe verificar su
+email*.
+ 
+Por lo tanto, si un alumno termina un curso y un instructor lo marca como
+completado, pero su nombre no aparece en la opción de Imprimir Certificado,
+entonces hay que decirle a ese alumno que acceda a su perfil de netacad.
+Ahí podrá comprobar si ha puesto su nombre y apellidos, y si ha verificado
+su email. En caso de no haberlo verificado, se puede hacer a través de un
+enlace en la parte derecha de su perfil.
+ 
+Aquí abajo os paso lo mismo pero en inglés:
+ 
+ 
+*A learner must meet the following requirements to receive a certificate of
+completion:*
+ 
+- *Complete the course*
+- *Ensure you are marked complete by your instructor*
+- *Complete your profile page*
+- *Verify Email Address*
+ 
+ 
+ 
+*If learners are in the "completed" status but their names don't appear on
+the "Print Certificate" page, this can mean they haven't completed their
+profile and/or verified their email address. This is by design.**Please
+have your colleague ask their learners to log into their NetAcad account **and
+complete the profile and the email verification process.**. When they
+access their "Mi aprendizaje" page, they can check the right side of the
+page to see if they need to finish completing their profile and/or resend
+the verification email. **There will be a link for "Reenviar la
+verificación por correo electrónico" on the right side of the page.*
+ 
+*After the learners confirm their profile is complete/email is verified,
+the instructor will see their names on the "Print Certificate" page in
+their Fundamentos de Python 1 class and see the option to download their
+certificates.*
