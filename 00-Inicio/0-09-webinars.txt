@@ -3,17 +3,7 @@ Webinars: Reuniones con webex
 
 Hola a tod@s
 
-Un webinar es un contenido formativo en formato vídeo que se imparte a través de internet. Web + seminario = webinar.
-
-Las reuniones con webex las pongo cuando os pueden ayudar y yo puedo hacerlas.  Las grabo para aquellos que no podais asistir. Yo tengo un horario que debo cumplir en un centro educativo.
-
-Mentor no me obliga a realizar clases online, pero yo creo que al menos debia hacer una al mes, y que os ayude ha hacer las prácticas más complejas. 
-
-El tener una reunión implica una preparación de la misma de aquello que se va a explicar. Es decir que si tardas 2 horas, debes prepararla al menos con 2h. Si necesitais que me conecte para resolver una práctica compleja, decidmelo.
-
-Las reunión serán los viernes a las 18h. 
-
-Todos los viernes intentaré conectarme esa hora, aunque no haya reunión programa por si alguien quiere preguntarme algo.
+La reunión será los viernes a las 18h. 
 
 ++++++++++++++++++++++++++++
 
@@ -21,21 +11,9 @@ Planificación de reuniones webex:
 
 ++++++++++++++++++++++++++++
 
-1. Presentación Vie 13 SEP
+Presentación Vie 14 Feb
 
-2. Lab 1. VM Vie  20 SEP
-
-3. Prac 1. Linux. Conceptos Básicos. Vie  27 SEP
-
-4. Módulo 5. Esnifer Wireshark. 4 OCT
-
-5. Prac 2. Modulo 12. Cortafuego ACLs Vie 25 OCT
-
-6. Prac 3. Modulo 21. Encriptación Openssl.  Vie 13 DIC
-
-7. Prac 4. Módulo 26. Snort. Vie 10 ENE
-
-8. Examen Final. Dudas Vie 17 ENE.
+Dudas examen Final. Vie 13 Jun
 
 ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
 
