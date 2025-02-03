@@ -1,254 +1,253 @@
-¡¡¡ ANUNCIOS !!!
+Â¡Â¡Â¡ ANUNCIOS !!!
 
 En este documento teneis todos los anuncios que ire poniendo durante el curso. Es por tanto un recopilatorio.
 
 
-INTRODUCCIÓN AL CURSO	1
-PRESENTACIÓN	2
-MÓDULOS: 1 - 2	2
-MÓDULOS 3 - 4	3
-MÓDULOS 5 - 6	4
-MÓDULOS 7 - 8	5
-MÓDULOS 9 - 10	6
-MÓDULOS 11 - 12	7
-MÓDULOS 13 - 14	8
-MÓDULOS 15 - 16	9
-MÓDULO 17	10
+INTRODUCCIÃ“N AL CURSO	1
+PRESENTACIÃ“N	2
+MÃ“DULOS: 1 - 2	2
+MÃ“DULOS 3 - 4	3
+MÃ“DULOS 5 - 6	4
+MÃ“DULOS 7 - 8	5
+MÃ“DULOS 9 - 10	6
+MÃ“DULOS 11 - 12	7
+MÃ“DULOS 13 - 14	8
+MÃ“DULOS 15 - 16	9
+MÃ“DULO 17	10
 SEMANA DE RECUPERACIONES	12
-MÓDULOS 18 - 19	13
-MÓDULO 20	14
-MÓDULOS 21 y 22	15
-MÓDULO 23	16
-MÓDULOS 24 - 25	17
-MÓDULOS 26 - 27	18
+MÃ“DULOS 18 - 19	13
+MÃ“DULO 20	14
+MÃ“DULOS 21 y 22	15
+MÃ“DULO 23	16
+MÃ“DULOS 24 - 25	17
+MÃ“DULOS 26 - 27	18
 RESERVA FECHA EXAMEN FINAL PRESENCIAL	20
-CÓMO VA A SER EL EXAMEN FINAL PRESENCIAL	21
+CÃ“MO VA A SER EL EXAMEN FINAL PRESENCIAL	21
 
 
-INTRODUCCIÓN AL CURSO
+INTRODUCCIÃ“N AL CURSO
 Un saludo a todos y bienvenidos a la plataforma de e-learning netacad de Cisco. Soy Francisco Aldarias y voy a ser vuestro instructor en este curso.
-Siguiendo la planificación del curso, que podéis consultar en la página de inicio, esta semana la hemos dedicado a daros de alta en la plataforma y a solucionar los problemas puntuales asociados.
-Plantear cualquier duda en el foro. indicando el tema módulo al que le corresponde la pregunta.
-Utilizaremos webex como medio de comunicación para poner dudas y el email como medio alternativo. 
+Siguiendo la planificaciÃ³n del curso, que podÃ©is consultar en la pÃ¡gina de inicio, esta semana la hemos dedicado a daros de alta en la plataforma y a solucionar los problemas puntuales asociados.
+Utilizaremos webex como medio de comunicaciÃ³n para poner dudas y el email como medio alternativo. 
 Un saludo.
 Paco Aldarias
 
 
 
-PRESENTACIÓN
+PRESENTACIÃ“N
 Hola a tod@s
-Soy Paco Aldarias, vuestro profesor de cyberops y voy a presentarme. Soy de Valencia y tengo 57 años, estoy casado y tengo una hija. Soy ingeniero superior  de informática por la Universidad Politécnica de Valencia. Soy profesor titular de enseñanza secundaria y profesor en un centro donde se imparte  desarrollo de aplicaciones web y móviles de titularidad  pública y a distancia de Valencia . Llevo impartiendo cursos de cisco en mentor durante 16  años como instructor de cisco.  Es la la primera vez que imparto cyberops en esta nueva plataforma netacad, pero lo he impartido ya varias veces. Haremos una reunión con webex el viernes para  presentar el curso
+Soy Paco Aldarias, vuestro profesor de cyberops y voy a presentarme. Soy de Valencia y tengo 57 aÃ±os, estoy casado y tengo una hija. Soy ingeniero superior  de informÃ¡tica por la Universidad PolitÃ©cnica de Valencia. Soy profesor titular de enseÃ±anza secundaria y profesor en un centro donde se imparte redes,  desarrollo de aplicaciones web y mÃ³viles de titularidad  pÃºblica y a distancia de Valencia. Llevo impartiendo cursos de cisco en mentor durante 16  aÃ±os como instructor de cisco.  Es la la primera vez que imparto cyberops en esta nueva plataforma netacad, pero lo he impartido ya varias veces. Haremos una reuniÃ³n con webex el viernes para  presentar el curso
 Un saludo
 
-MÓDULOS: 1 - 2
-¡ Comenzamos con el contenido del curso !
-Siguiendo con la planificación del curso del x al y,
-Dura dos semanas, vamos a trabajar los módulos 1 y 2 del curso. Estudiaremos ataques muy conocidos y conceptos básicos como son el SOC y el agente de amenazas.
-Durante el curso os pediremos la entrega para su evaluación de alguna práctica obligatoria que habrá que superar con al menos un 70% para poder tener APTA y poder realizar el examen final.
+MÃ“DULOS: 1 - 2
+Â¡ Comenzamos con el contenido del curso !
+Siguiendo con la planificaciÃ³n del curso del x al y,
+Dura dos semanas, vamos a trabajar los mÃ³dulos 1 y 2 del curso. Estudiaremos ataques muy conocidos y conceptos bÃ¡sicos como son el SOC y el agente de amenazas.
+Durante el curso os pediremos la entrega para su evaluaciÃ³n de alguna prÃ¡ctica obligatoria que habrÃ¡ que superar con al menos un 70% para poder tener APTA y poder realizar el examen final.
 
-En el contenido del tema 1 práctica 1.1.5,  se os dará instrucciones para descargar e instalar la máquina virtual (VM) de CyberOps Workstation, que nos permitirá simular entornos reales de forma virtualizada. Esta MV es un fichero .ova que se puede encontrar en Contenidos - Recursos.
-En este caso no tenemos entregas obligatorias de prácticas, pero sí que tenemos el primer examen de Cisco, que es un examen obligatorio que se hace on-line y en el que hay que sacar al menos un 70% para aprobarlo.
-Las tareas que debéis completar para estas semanas son:
-    • Estudiar en detalle los módulos 1 y 2, y realizar el cuestionario de autoevaluación al final de cada módulo.
-    • Examen on-line de Cisco del Módulo 1 y 2. El examen se activará hasta el domingo a las 23:59.
-    • Realizar las actividades propuestas. En este capítulo no tenéis que entregar ninguna de estas prácticas pero son fundamentales en vuestro proceso de formación.
-    • Consultar y plantear  las dudas en el chat de webex
-    • En la reunión de webex del viernes veremos Virtualbox
+En el contenido del tema 1 prÃ¡ctica 1.1.5,  se os darÃ¡ instrucciones para descargar e instalar la mÃ¡quina virtual (VM) de CyberOps Workstation, que nos permitirÃ¡ simular entornos reales de forma virtualizada. Esta MV es un fichero .ova que se puede encontrar en Contenidos - Recursos.
+En este caso no tenemos entregas obligatorias de prÃ¡cticas, pero sÃ­ que tenemos el primer examen de Cisco, que es un examen obligatorio que se hace on-line y en el que hay que sacar al menos un 70% para aprobarlo.
+Las tareas que debÃ©is completar para estas semanas son:
+    â€¢ Estudiar en detalle los mÃ³dulos 1 y 2, y realizar el cuestionario de autoevaluaciÃ³n al final de cada mÃ³dulo.
+    â€¢ Examen on-line de Cisco del MÃ³dulo 1 y 2. El examen se activarÃ¡ hasta el domingo a las 23:59.
+    â€¢ Realizar las actividades propuestas. En este capÃ­tulo no tenÃ©is que entregar ninguna de estas prÃ¡cticas pero son fundamentales en vuestro proceso de formaciÃ³n.
+    â€¢ Consultar y plantear  las dudas en el chat de webex
+    â€¢ En la reuniÃ³n de webex del viernes veremos Virtualbox
 
 
-MÓDULOS 3 - 4
-Siguiendo con la planificación del curso del x al y,
-Vamos a abordar el estudio de los Módulos 3 y 4. Van a ser unos módulos más prácticos. Estudiaremos conceptos básicos de sistemas operativos y algunas herramientas relacionadas con la seguridad.
-Si no habéis superado el examen del módulo 1-2 no os preocupéis, podréis volver a intentarlo en la semana de recuperaciones. 
-Consultar la planificación del curso. Ahora debéis centraros en los módulos de esta semana.
-ATENCIÓN: Esta semana tenéis que entregar la práctica obligatoria: ACTIVIDAD 1 - Administración básica de LINUX
+MÃ“DULOS 3 - 4
+Siguiendo con la planificaciÃ³n del curso del x al y,
+Vamos a abordar el estudio de los MÃ³dulos 3 y 4. Van a ser unos mÃ³dulos mÃ¡s prÃ¡cticos. Estudiaremos conceptos bÃ¡sicos de sistemas operativos y algunas herramientas relacionadas con la seguridad.
+Si no habÃ©is superado el examen del mÃ³dulo 1-2 no os preocupÃ©is, podrÃ©is volver a intentarlo en la semana de recuperaciones. 
+Consultar la planificaciÃ³n del curso. Ahora debÃ©is centraros en los mÃ³dulos de esta semana.
+ATENCIÃ“N: Esta semana tenÃ©is que entregar la prÃ¡ctica obligatoria: ACTIVIDAD 1 - AdministraciÃ³n bÃ¡sica de LINUX
 
-Durante esta semana las actividades que tenéis que hacer son:
-    • Estudiar en detalle los módulos 3-4 del currículum
-    • Realizar la autoevaluación del módulo
-    • Realizar el examen correspondiente a los módulos 3 y 4
-    • Realizar los laboratorios y actividades opcionales propuestos
-    • Consultar y plantear  las dudas en el chat de webex
-    • Entregar la Práctica obligatoria: Actividad 1 - Administración de LINUX. 
-    • En la reunión de webex del viernes veremos la Actividad 1. 
-MÓDULOS 5 - 6
+Durante esta semana las actividades que tenÃ©is que hacer son:
+    â€¢ Estudiar en detalle los mÃ³dulos 3-4 del currÃ­culum
+    â€¢ Realizar la autoevaluaciÃ³n del mÃ³dulo
+    â€¢ Realizar el examen correspondiente a los mÃ³dulos 3 y 4
+    â€¢ Realizar los laboratorios y actividades opcionales propuestos
+    â€¢ Consultar y plantear  las dudas en el chat de webex
+    â€¢ Entregar la PrÃ¡ctica obligatoria: Actividad 1 - AdministraciÃ³n de LINUX. 
+    â€¢ En la reuniÃ³n de webex del viernes veremos la Actividad 1. 
+MÃ“DULOS 5 - 6
 
 Del x al y.
-Vamos a trabajar unos módulos relacionados con redes y protocolos de comunicación.
-Las actividades que tenéis que hacer son:
-    • Estudiar en detalle los módulos 5-6 del currículum
-    • Realizar la autoevaluación del módulo
-    • Esta semana no tenemos examen de los módulos, porque se hará al final del módulo 10
-    • Realizar los laboratorios y actividades opcionales propuestos
-    • Consultar y plantear  las dudas en el chat de webex
-    • En la reunión de webex del viernes, veremos las prácticas de laboratorio de los temas 5 y 6. Que son lab 5.1.5. Traceroute y lab 5.3.7 Introducción al snifer wireshark.
+Vamos a trabajar unos mÃ³dulos relacionados con redes y protocolos de comunicaciÃ³n.
+Las actividades que tenÃ©is que hacer son:
+    â€¢ Estudiar en detalle los mÃ³dulos 5-6 del currÃ­culum
+    â€¢ Realizar la autoevaluaciÃ³n del mÃ³dulo
+    â€¢ Esta semana no tenemos examen de los mÃ³dulos, porque se harÃ¡ al final del mÃ³dulo 10
+    â€¢ Realizar los laboratorios y actividades opcionales propuestos
+    â€¢ Consultar y plantear  las dudas en el chat de webex
+    â€¢ En la reuniÃ³n de webex del viernes, veremos las prÃ¡cticas de laboratorio de los temas 5 y 6. Que son lab 5.1.5. Traceroute y lab 5.3.7 IntroducciÃ³n al snifer wireshark.
 
 
 
-MÓDULOS 7 - 8
+MÃ“DULOS 7 - 8
 
 Del x al y 
-Vamos a trabajar los módulos 7 y 8 del curso.
+Vamos a trabajar los mÃ³dulos 7 y 8 del curso.
 Las actividades para esta semana son:
-    • Estudiar en detalle los módulos 7-8 del currículum
-    • Realizar la autoevaluación del módulo
-    • Esta semana tampoco tenemos examen de los módulos, porque se hará al final del módulo 10
-    • Realizar los laboratorios y actividades opcionales propuestos
-    • Consultar y plantear  las dudas en el chat de webex
-MÓDULOS 9 - 10
-Siguiendo con la planificación del curso del x al y, abordamos los 2 últimos módulos de este bloque.
-ATENCIÓN: esta semana tenemos examen de módulos.
-En esta semana vamos a profundizar en la capa de transporte y estudiaremos los servicios de red más habituales. Tenéis unas prácticas muy interesantes con wireshark. Esta semana además tendréis el examen de los módulos 5 al 10.
-Durante esta semana las actividades que tenéis que hacer son:
-    • Estudiar en detalle los módulos 9-10 del currículum
-    • Realizar la autoevaluación del módulo
-    • Superar el examen de los módulos 5 al 10
-    • Realizar los laboratorios y actividades opcionales propuestos
-    • Consultar y plantear  las dudas en el chat de webex
-MÓDULOS 11 - 12
-Módulos 11 y 12 del curso, siguiendo con la planificación del curso del x al y,. 
+    â€¢ Estudiar en detalle los mÃ³dulos 7-8 del currÃ­culum
+    â€¢ Realizar la autoevaluaciÃ³n del mÃ³dulo
+    â€¢ Esta semana tampoco tenemos examen de los mÃ³dulos, porque se harÃ¡ al final del mÃ³dulo 10
+    â€¢ Realizar los laboratorios y actividades opcionales propuestos
+    â€¢ Consultar y plantear  las dudas en el chat de webex
+MÃ“DULOS 9 - 10
+Siguiendo con la planificaciÃ³n del curso del x al y, abordamos los 2 Ãºltimos mÃ³dulos de este bloque.
+ATENCIÃ“N: esta semana tenemos examen de mÃ³dulos.
+En esta semana vamos a profundizar en la capa de transporte y estudiaremos los servicios de red mÃ¡s habituales. TenÃ©is unas prÃ¡cticas muy interesantes con wireshark. Esta semana ademÃ¡s tendrÃ©is el examen de los mÃ³dulos 5 al 10.
+Durante esta semana las actividades que tenÃ©is que hacer son:
+    â€¢ Estudiar en detalle los mÃ³dulos 9-10 del currÃ­culum
+    â€¢ Realizar la autoevaluaciÃ³n del mÃ³dulo
+    â€¢ Superar el examen de los mÃ³dulos 5 al 10
+    â€¢ Realizar los laboratorios y actividades opcionales propuestos
+    â€¢ Consultar y plantear  las dudas en el chat de webex
+MÃ“DULOS 11 - 12
+MÃ³dulos 11 y 12 del curso, siguiendo con la planificaciÃ³n del curso del x al y,. 
 En esta semana vamos a estudiar los tipos de redes de comunicaciones
-y cómo podemos mejorar su seguridad.
-Durante esta semana las actividades que tenéis que hacer son:
-    • Estudiar en detalle los módulos 11-12 del currículum
-    • Realizar la autoevaluación del módulo
-    • Superar el examen de los módulos 11-12, hasta el domingo 30 de octubre
-    • Realizar los laboratorios y actividades opcionales propuestos
-    • Entregar la actividad 2 acl, que utiliza el tema 12.
-    • Consultar y plantear  las dudas en el chat de webex
+y cÃ³mo podemos mejorar su seguridad.
+Durante esta semana las actividades que tenÃ©is que hacer son:
+    â€¢ Estudiar en detalle los mÃ³dulos 11-12 del currÃ­culum
+    â€¢ Realizar la autoevaluaciÃ³n del mÃ³dulo
+    â€¢ Superar el examen de los mÃ³dulos 11-12, hasta el domingo 30 de octubre
+    â€¢ Realizar los laboratorios y actividades opcionales propuestos
+    â€¢ Entregar la actividad 2 acl, que utiliza el tema 12.
+    â€¢ Consultar y plantear  las dudas en el chat de webex
 
-MÓDULOS 13 - 14
-Esta semana vamos a trabajar los módulos 13 y 14 del curso, hasta el domingo 6 de noviembre. En esta semana vamos a estudiar los ataques de seguridad más conocidos.
-Las actividades que tenéis que hacer son:
-Estudiar en detalle los módulos 13-14 del currículum
-Realizar la autoevaluación del módulo
-No tenemos examen online de módulos, será al final del módulo 17
+MÃ“DULOS 13 - 14
+Esta semana vamos a trabajar los mÃ³dulos 13 y 14 del curso, hasta el domingo 6 de noviembre. En esta semana vamos a estudiar los ataques de seguridad mÃ¡s conocidos.
+Las actividades que tenÃ©is que hacer son:
+Estudiar en detalle los mÃ³dulos 13-14 del currÃ­culum
+Realizar la autoevaluaciÃ³n del mÃ³dulo
+No tenemos examen online de mÃ³dulos, serÃ¡ al final del mÃ³dulo 17
 Realizar los laboratorios y actividades opcionales propuestos
 Consultar y plantear  las dudas en el chat de webex
 Mirar en el repositorio el fichero leeme.txt para ver la errata.
-MÓDULOS 15 - 16
-Esta semana trabajaremos los módulos 15 y 16, hasta el domingo 7 de abril. En esta semana vamos a estudiar herramientas de monitorización y algunas vulnerabilidades básicas muy conocidas.
-Durante esta semana las actividades que tenéis que hacer son:
-    • Estudiar en detalle los módulos 15-16 del currículum
-    • Realizar la autoevaluación del módulo
-    • No tenemos examen online de módulos, será al final del módulo 17
-    • Realizar los laboratorios y actividades opcionales propuestos
-    • Consultar y plantear  las dudas en el chat de webex
+MÃ“DULOS 15 - 16
+Esta semana trabajaremos los mÃ³dulos 15 y 16, hasta el domingo 7 de abril. En esta semana vamos a estudiar herramientas de monitorizaciÃ³n y algunas vulnerabilidades bÃ¡sicas muy conocidas.
+Durante esta semana las actividades que tenÃ©is que hacer son:
+    â€¢ Estudiar en detalle los mÃ³dulos 15-16 del currÃ­culum
+    â€¢ Realizar la autoevaluaciÃ³n del mÃ³dulo
+    â€¢ No tenemos examen online de mÃ³dulos, serÃ¡ al final del mÃ³dulo 17
+    â€¢ Realizar los laboratorios y actividades opcionales propuestos
+    â€¢ Consultar y plantear  las dudas en el chat de webex
 
-MÓDULO 17
-Con el módulo 17 finalizamos el bloque de estudio de las vulnerabilidades más conocidas y los ataques asociados.
-Esta semana tendremos que realizar el examen de todo el bloque de módulos 13 al 17.
-Durante esta semana las actividades que tenéis que hacer son:
-    • Estudiar en detalle los módulos 13 al 17 del currículum
-    • Realizar la autoevaluación del módulo 17
-    • Realizar el examen online del bloque de módulos 13 al 17. 
-    • Realizar los laboratorios y actividades opcionales propuestos
-    • Consultar y plantear  las dudas en el chat de webex
+MÃ“DULO 17
+Con el mÃ³dulo 17 finalizamos el bloque de estudio de las vulnerabilidades mÃ¡s conocidas y los ataques asociados.
+Esta semana tendremos que realizar el examen de todo el bloque de mÃ³dulos 13 al 17.
+Durante esta semana las actividades que tenÃ©is que hacer son:
+    â€¢ Estudiar en detalle los mÃ³dulos 13 al 17 del currÃ­culum
+    â€¢ Realizar la autoevaluaciÃ³n del mÃ³dulo 17
+    â€¢ Realizar el examen online del bloque de mÃ³dulos 13 al 17. 
+    â€¢ Realizar los laboratorios y actividades opcionales propuestos
+    â€¢ Consultar y plantear  las dudas en el chat de webex
 
 SEMANA DE RECUPERACIONES
-Esta semana hasta el domingo 27 de noviembre, la vamos a dedicar a las recuperaciones de los exámenes y actividades no aptos(<70%).
-Las condiciones para la activación de los exámenes son las siguientes:
-No existen reactivaciones para subir de nota, sólo para la realización de exámenes no superados (>70%)
-Recordad que tenéis un máximo de 3 oportunidades para aprobar cada examen o tarea
+Esta semana hasta el domingo 27 de noviembre, la vamos a dedicar a las recuperaciones de los exÃ¡menes y actividades no aptos(<70%).
+Las condiciones para la activaciÃ³n de los exÃ¡menes son las siguientes:
+No existen reactivaciones para subir de nota, sÃ³lo para la realizaciÃ³n de exÃ¡menes no superados (>70%)
+Recordad que tenÃ©is un mÃ¡ximo de 3 oportunidades para aprobar cada examen o tarea
 
-MÓDULOS 18 - 19
-Hasta el domingo 3 de diciembre estudiaremos los módulos 18 y 19 del curso. Vamos a profundizar en políticas de seguridad y control de acceso.
-Durante esta semana las actividades que tenéis que hacer son:
-Estudiar en detalle los módulos 18 y 19 del currículum
-Realizar la autoevaluación
+MÃ“DULOS 18 - 19
+Hasta el domingo 3 de diciembre estudiaremos los mÃ³dulos 18 y 19 del curso. Vamos a profundizar en polÃ­ticas de seguridad y control de acceso.
+Durante esta semana las actividades que tenÃ©is que hacer son:
+Estudiar en detalle los mÃ³dulos 18 y 19 del currÃ­culum
+Realizar la autoevaluaciÃ³n
 Realizar los laboratorios y actividades opcionales propuestos
 Consultar y plantear  las dudas en el chat de webex
 
-MÓDULO 20
-Esta semana hasta el 10 de diciembre vamos a trabajar el Módulo 20 que trata los servicios de inteligencia contra amenazas. Tendréis que realizar el examen del bloque de módulos del 18 al 20.
-Durante esta semana las actividades que tenéis que hacer son:
-Estudiar en detalle el módulo 20 del currículum
-Realizar la autoevaluación del módulo
-Realizar el examen online del bloque de módulos 18 al 20
+MÃ“DULO 20
+Esta semana hasta el 10 de diciembre vamos a trabajar el MÃ³dulo 20 que trata los servicios de inteligencia contra amenazas. TendrÃ©is que realizar el examen del bloque de mÃ³dulos del 18 al 20.
+Durante esta semana las actividades que tenÃ©is que hacer son:
+Estudiar en detalle el mÃ³dulo 20 del currÃ­culum
+Realizar la autoevaluaciÃ³n del mÃ³dulo
+Realizar el examen online del bloque de mÃ³dulos 18 al 20
 Realizar los laboratorios y actividades opcionales propuestos
 Consultar y plantear  las dudas en el chat de webex
 
 
-MÓDULOS 21 y 22
-Esta semana, hasta el domingo 18 de diciembre, vamos a trabajar la criptografía aplicada a la seguridad. Tendréis que realizar la Práctica 3.
-Durante esta semana las actividades que tenéis que hacer son:
-Estudiar en detalle el módulo 21 y 22 del currículum
-Realizar la autoevaluación del módulo
+MÃ“DULOS 21 y 22
+Esta semana, hasta el domingo 18 de diciembre, vamos a trabajar la criptografÃ­a aplicada a la seguridad. TendrÃ©is que realizar la PrÃ¡ctica 3.
+Durante esta semana las actividades que tenÃ©is que hacer son:
+Estudiar en detalle el mÃ³dulo 21 y 22 del currÃ­culum
+Realizar la autoevaluaciÃ³n del mÃ³dulo
 Entregar resuelta la ACTIVIDAD 3 - CIFRADO DE DATOS
 Realizar los laboratorios y actividades opcionales propuestos
 Consultar y plantear  las dudas en el chat de webex
-Webinar Prac 3. Módulo 21. SHA 
+Webinar Prac 3. MÃ³dulo 21. SHA 
 Rellenar el formulario de fecha y hora del examen final.
 
-MÓDULO 23
-Esta semana nos toca el Módulo 23 que analiza las vulnerabilidades de los equipos. 
-Durante esta semana las actividades que tenéis que hacer son:
-    • Estudiar en detalle el módulo 23 del currículum
-    • Realizar la autoevaluación del módulo
-    • Entregar Actividad 3 sobre cifrado de datos que se trata en el tema 21.
-    • Realizar el examen online del bloque de módulos 21 al 23. 
-    • Realizar los laboratorios y actividades opcionales propuestos
-    • Consultar y plantear  las dudas en el chat de webex
+MÃ“DULO 23
+Esta semana nos toca el MÃ³dulo 23 que analiza las vulnerabilidades de los equipos. 
+Durante esta semana las actividades que tenÃ©is que hacer son:
+    â€¢ Estudiar en detalle el mÃ³dulo 23 del currÃ­culum
+    â€¢ Realizar la autoevaluaciÃ³n del mÃ³dulo
+    â€¢ Entregar Actividad 3 sobre cifrado de datos que se trata en el tema 21.
+    â€¢ Realizar el examen online del bloque de mÃ³dulos 21 al 23. 
+    â€¢ Realizar los laboratorios y actividades opcionales propuestos
+    â€¢ Consultar y plantear  las dudas en el chat de webex
 
-MÓDULOS 24 - 25
-Ánimo que estamos llegando al final del curso.
-Hasta el domingo 1 de enero vamos a trabajar los módulos 24 y 25. También tendremos que realizar el examen de estos módulos.
-Durante esta semana vamos a estudiar tecnologías de seguridad y su monitorización. También veremos qué información se registra en las capturas dedatos para la supervisión de seguridad.
-Las actividades que tenéis que hacer son:
-Estudiar en detalle el módulo 24 y 25 del currículum
-Realizar la autoevaluación del módulo
-Realizar el examen online del bloque de módulos 24 al 25
+MÃ“DULOS 24 - 25
+Ãnimo que estamos llegando al final del curso.
+Hasta el domingo 1 de enero vamos a trabajar los mÃ³dulos 24 y 25. TambiÃ©n tendremos que realizar el examen de estos mÃ³dulos.
+Durante esta semana vamos a estudiar tecnologÃ­as de seguridad y su monitorizaciÃ³n. TambiÃ©n veremos quÃ© informaciÃ³n se registra en las capturas dedatos para la supervisiÃ³n de seguridad.
+Las actividades que tenÃ©is que hacer son:
+Estudiar en detalle el mÃ³dulo 24 y 25 del currÃ­culum
+Realizar la autoevaluaciÃ³n del mÃ³dulo
+Realizar el examen online del bloque de mÃ³dulos 24 al 25
 Realizar los laboratorios y actividades opcionales propuestos
 Consultar y plantear  las dudas en el chat de webex
-MÓDULOS 26 - 27
-Ya estamos llegando al final del curso. Os animo a intensificar el trabajo y dar un último empujón.
-Esta semana, hasta el domingo 8 de enero estudiaremos los módulos 26 y 27. 
-También tendremos que entregar la ACTIVIDAD 4.
-Durante esta semana las actividades que tenéis que hacer son:
-Estudiar en detalle el módulo 26 y 27 del currículum
-Realizar la autoevaluación del módulo
-Realizar la práctica obligatoria "Práctica 4 - SNORT-WIRESHARK-IPTABLES"
+MÃ“DULOS 26 - 27
+Ya estamos llegando al final del curso. Os animo a intensificar el trabajo y dar un Ãºltimo empujÃ³n.
+Esta semana, hasta el domingo 8 de enero estudiaremos los mÃ³dulos 26 y 27. 
+TambiÃ©n tendremos que entregar la ACTIVIDAD 4.
+Durante esta semana las actividades que tenÃ©is que hacer son:
+Estudiar en detalle el mÃ³dulo 26 y 27 del currÃ­culum
+Realizar la autoevaluaciÃ³n del mÃ³dulo
+Realizar la prÃ¡ctica obligatoria "PrÃ¡ctica 4 - SNORT-WIRESHARK-IPTABLES"
 Realizar los laboratorios y actividades opcionales propuestos
 Consultar y plantear  las dudas en el chat de webex
-Webinar Prácica 4. Módulo 26. Snort. Vie 10 ENE
-MÓDULO 28
-¡ Abordamos el último módulo del curso ! ¡ Felicidades por haber llegado hasta aquí !
-Vamos a dedicar a este módulo final una semana, hasta el domingo 15 de enero.También tendremos que entregar la ACTIVIDAD 4.
-En este capítulo, tendréis que realizar las siguientes tareas:
-Estudiar en detalle el módulo 28 del currículum
-Hacer la autoevaluación del módulo 28
-Realizar la práctica obligatoria "Práctica 4 - SNORT-WIRESHARK-IPTABLES"
+Webinar PrÃ¡cica 4. MÃ³dulo 26. Snort. Vie 10 ENE
+MÃ“DULO 28
+Â¡ Abordamos el Ãºltimo mÃ³dulo del curso ! Â¡ Felicidades por haber llegado hasta aquÃ­ !
+Vamos a dedicar a este mÃ³dulo final una semana, hasta el domingo 15 de enero.TambiÃ©n tendremos que entregar la ACTIVIDAD 4.
+En este capÃ­tulo, tendrÃ©is que realizar las siguientes tareas:
+Estudiar en detalle el mÃ³dulo 28 del currÃ­culum
+Hacer la autoevaluaciÃ³n del mÃ³dulo 28
+Realizar la prÃ¡ctica obligatoria "PrÃ¡ctica 4 - SNORT-WIRESHARK-IPTABLES"
 Realizar los laboratorios y actividades opcionales propuestos
-Hacer el examen obligatorio del bloque correspondiente a los módulos 26 al 28
+Hacer el examen obligatorio del bloque correspondiente a los mÃ³dulos 26 al 28
 Consultar y plantear  las dudas en el chat de webex
 
 RESERVA FECHA EXAMEN FINAL PRESENCIAL
-Según la planificación del curso, la semana del 23 de enero tenemos que realizar el examen final presencial.
+SegÃºn la planificaciÃ³n del curso, la semana del 23 de enero tenemos que realizar el examen final presencial.
 
-IMPORTANTE: Únicamente podrán presentarse a estos exámenes finales aquellos alumnos que tengan TODO APTO (>70%) y estén al corriente de los pagos de la matrícula.
+IMPORTANTE: Ãšnicamente podrÃ¡n presentarse a estos exÃ¡menes finales aquellos alumnos que tengan TODO APTO (>70%) y estÃ©n al corriente de los pagos de la matrÃ­cula.
 
-Tenéis que contactar con el administrador de vuestra Aula Mentor para acordar el día y la hora exacta del examen presencial y comunicar a la hora que habéis pactado.
+TenÃ©is que contactar con el administrador de vuestra Aula Mentor para acordar el dÃ­a y la hora exacta del examen presencial y comunicar a la hora que habÃ©is pactado.
 
-Tenéis que rellenar un formulario indicando cuando haréis el examen.
+TenÃ©is que rellenar un formulario indicando cuando harÃ©is el examen.
 
-Comunicadme el día y la hora acordada con el responsable del aula, para que pueda activar el examen.
+Comunicadme el dÃ­a y la hora acordada con el responsable del aula, para que pueda activar el examen.
 
 Webinar Examen Final Dudas.
-CÓMO VA A SER EL EXAMEN FINAL PRESENCIAL
-Os explico cuál es la mecánica del examen final presencial.
+CÃ“MO VA A SER EL EXAMEN FINAL PRESENCIAL
+Os explico cuÃ¡l es la mecÃ¡nica del examen final presencial.
 
-En el chat de webex podéis poner vuestras dudas al respecto. El examen tenéis que hacerlo de forma presencial, en un Aula Mentor, preferiblemente en el Aula Mentor en la que estéis inscritos. Os recuerdo que la nota mínima para aprobar cada examen es de un 70%.
+En el chat de webex podÃ©is poner vuestras dudas al respecto. El examen tenÃ©is que hacerlo de forma presencial, en un Aula Mentor, preferiblemente en el Aula Mentor en la que estÃ©is inscritos. Os recuerdo que la nota mÃ­nima para aprobar cada examen es de un 70%.
 El examen final consta de 3 partes:
 
-Parte 1. Una encuesta obligatoria (course feedback - comentarios del curso) en esta misma plataforma Netacad de Cisco donde se evalúan cada una de las partes involucradas en el mismo: tutores, currículum, etc. Tendrá una duración de 10 minutos y se realizará como un examen online normal.
-IMPORTANTE: Hacer la encuesta en primer lugar antes de los exámenes para que se active el examen online.
+Parte 1. Una encuesta obligatoria (course feedback - comentarios del curso) en esta misma plataforma Netacad de Cisco donde se evalÃºan cada una de las partes involucradas en el mismo: tutores, currÃ­culum, etc. TendrÃ¡ una duraciÃ³n de 10 minutos y se realizarÃ¡ como un examen online normal.
+IMPORTANTE: Hacer la encuesta en primer lugar antes de los exÃ¡menes para que se active el examen online.
 
-Parte 2. Un examen final online en la plataforma Netacad de Cisco, la misma en la que habéis realizado todo el curso. El examen tendrá una duración aproximada de 1 hora y 15 minutos. Similar al examen de cada capítulo, pero de todo el curso.
+Parte 2. Un examen final online en la plataforma Netacad de Cisco, la misma en la que habÃ©is realizado todo el curso. El examen tendrÃ¡ una duraciÃ³n aproximada de 1 hora y 15 minutos. Similar al examen de cada capÃ­tulo, pero de todo el curso.
 
-Parte 3. Un examen escrito, elaborado por MENTOR, de máximo 1 hora y 15 minutos. Se trata de pequeños problemas o cuestiones teórico-prácticas relacionadas con los contenidos estudiados en el curso.
+Parte 3. Un examen escrito, elaborado por MENTOR, de mÃ¡ximo 1 hora y 15 minutos. Se trata de pequeÃ±os problemas o cuestiones teÃ³rico-prÃ¡cticas relacionadas con los contenidos estudiados en el curso.
 
 CONSIDERACIONES SOBRE EL EXAMEN:
-El examen puesto por Cisco no se puede activar indefinidamente sino un día concreto y a una hora concreta. De ahí que me tengáis que decir día yhora exactos, que tenéis que pactar con el responsable de vuestra Aula Mentor, para que yo pueda activarlo, dentro de las fechas que se habilitarán en la semana de exámenes.
-Durante el examen final no podréis usar ningún tipo de apuntes, ni otra pantalla de navegador que no sea la del examen
+El examen puesto por Cisco no se puede activar indefinidamente sino un dÃ­a concreto y a una hora concreta. De ahÃ­ que me tengÃ¡is que decir dÃ­a yhora exactos, que tenÃ©is que pactar con el responsable de vuestra Aula Mentor, para que yo pueda activarlo, dentro de las fechas que se habilitarÃ¡n en la semana de exÃ¡menes.
+Durante el examen final no podrÃ©is usar ningÃºn tipo de apuntes, ni otra pantalla de navegador que no sea la del examen
 
 
