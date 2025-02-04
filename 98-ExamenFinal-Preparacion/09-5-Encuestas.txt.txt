@@ -1,0 +1,28 @@
+ENCUESTAS
+*********
+
+Las encuestas son un modo de saber si el curso va bien, y poder mejorarlo. 
+Es un medida de calidad que hacer que los cursos vayan a mejor.
+
+En el curso existen las siguiente encuestas:
+
+1. Encuesta de cisco. 
+Es obligatoria hacerla y es información para cisco. Se activa antes y durante los exámenes finales.
+Se hace en la plataforma netacad de cisco. Si la encuesta no se realiza cisco no deja entregar el certificado.
+
+2. Encuesta de mentor. Es obligatoria hacerla y es información para mentor. Se activa antes y durante los exámenes finales.
+Se hace en la plataforma cve de mentor.  Si la encuesta no se realiza mentor no deja entregar el certificado.
+https://github.com/aldarias/cyberops/blob/main/98-ExamenFinal-Preparacion/09-2-Valoracion.pdf
+
+3. Encuesta para el profesor. 
+Es obligatoria hacerla y es información para el profesor. Se activa antes y durante los exámenes finales.
+Se hace en un formulario de Google.
+https://github.com/aldarias/cyberops/blob/main/99-ExamenFinal-Postexamen/10-1-PostExamen.pdf
+Si la encuesta no se realiza el profe no deja entregar el certificado.
+
+Sólo se realizarán los exámenes y se entregarán los certificados si las encuestas se han realizado.
+
+Un saludo
+Paco Aldarias.
+
+
