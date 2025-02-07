@@ -36,11 +36,21 @@ https://github.com/aldarias/cyberops/blob/main/00-Inicio/0-00-BienvenidaCyberops
 Un saludo.
 Paco Aldarias
 
-
+****************************************************
 
 PRESENTACIÓN
 Hola a tod@s
-Soy Paco Aldarias, vuestro profesor de cyberops y voy a presentarme. Soy de Valencia y tengo 57 años, estoy casado y tengo una hija. Soy ingeniero superior  de informática por la Universidad Politécnica de Valencia. Soy profesor titular de enseñanza secundaria y profesor en un centro donde se imparte redes,  desarrollo de aplicaciones web y móviles de titularidad  pública y a distancia de Valencia. Llevo impartiendo cursos de cisco en mentor durante 16  años como instructor de cisco.  Es la la primera vez que imparto cyberops en esta nueva plataforma netacad, pero lo he impartido ya varias veces. Haremos una reunión con webex el viernes para  presentar el curso
+
+Soy Paco Aldarias, vuestro profesor de cyberops y voy a presentarme. Soy de Valencia y tengo 57 años, estoy casado y tengo una hija. Soy ingeniero superior  de informática por la Universidad Politécnica de Valencia. Soy profesor titular de enseñanza secundaria y profesor en un centro donde se imparte redes,  desarrollo de aplicaciones web y móviles de titularidad  pública y a distancia de Valencia. 
+
+Llevo impartiendo cursos de cisco en mentor durante 18  años como instructor de cisco.  
+
+Es la cuarta vez que imparto cyberops. Pero llevo dando cursos de cisco desde hace 20 años. 
+
+Haremos una reunión con webex el primer viernes del curso, para  presentarlo.
+
+Si quieres, te puedes presentar en el chat de webex.
+
 Un saludo
 
 MÓDULOS: 1 - 2
