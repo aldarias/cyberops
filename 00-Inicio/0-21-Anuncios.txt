@@ -40,17 +40,11 @@ Paco Aldarias
 
 PRESENTACIÓN
 Hola a tod@s
-
-Soy Paco Aldarias, vuestro profesor de cyberops y voy a presentarme. Soy de Valencia y tengo 57 años, estoy casado y tengo una hija. Soy ingeniero superior  de informática por la Universidad Politécnica de Valencia. Soy profesor titular de enseñanza secundaria y profesor en un centro donde se imparte redes,  desarrollo de aplicaciones web y móviles de titularidad  pública y a distancia de Valencia. 
-
-Llevo impartiendo cursos de cisco en mentor durante 18  años como instructor de cisco.  
-
-Es la cuarta vez que imparto cyberops. Pero llevo dando cursos de cisco desde hace 20 años. 
-
+Soy Paco Aldarias, vuestro profesor de cyberops y voy a presentarme. Soy de Valencia y tengo 57 años, estoy casado y tengo una hija. Soy ingeniero superior  de informática por la Universidad Politécnica de Valencia. Soy profesor titular de enseñanza secundaria y profesor en un centro donde se imparte redes,  desarrollo de aplicaciones web y móviles de titularidad  pública y a distancia de Valencia.
+Llevo impartiendo cursos de cisco en mentor durante 18 años
+Es la cuarta vez que imparto cyberops. 
 Haremos una reunión con webex el primer viernes del curso, para  presentarlo.
-
 Si quieres, te puedes presentar en el chat de webex.
-
 Un saludo
 
 MÓDULOS: 1 - 2
