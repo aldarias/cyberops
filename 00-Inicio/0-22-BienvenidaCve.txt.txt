@@ -1,0 +1,10 @@
+BIENVENIDA CVE
+***
+Hola buenos dias
+Mi nombre es Francisco Aldarias y voy a ser vuestro tutor de Cisco Cyberops.
+Queria daros la bienvenida al curso de cisco cyberops.
+Estamos matriculando en la plataforma netacad. 
+Te deberá llegar un email de invitación al curso
+Si tienes alguna duda envia un email a francisco.aldarias@aulamentor.es 
+Un saludo
+***
