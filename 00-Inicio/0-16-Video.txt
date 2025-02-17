@@ -1,7 +1,9 @@
 VIDEOS DEL CURSO.
 ******************
+Tema 0 Presentación Feb.25
+https://netacad.webex.com/netacad-es/j.php?MTID=mbe873fe57e0db4f7e969b06f7a72e20e
 
-Tema 0 Presentación Sep.25 
+Tema 0 Presentación Sep.24 
 https://netacad.webex.com/netacad/ldr.php?RCID=5b03b1d4e0fc539269de9ee398b5eb11
 
 Tema 1. VirtualBox
