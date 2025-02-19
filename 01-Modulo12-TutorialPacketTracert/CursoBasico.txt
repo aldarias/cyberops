@@ -4,7 +4,7 @@ PACKET TRACERT
 
 Simulador de redes.
 
-Podeis hacer un curso básico gratuito (2h) de packet tracert con opción de descarga del programa en:
+Podeis hacer un curso básico gratuito de packet tracert de 2 horas, con opción de descarga del programa en:
 https://www.netacad.com/es/courses/getting-started-cisco-packet-tracer?courseLang=es-XL
 
 Fuente:
