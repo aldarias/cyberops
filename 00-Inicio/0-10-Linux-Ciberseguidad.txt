@@ -1,17 +1,24 @@
 
 DISTRICIONES DE LINUX PARA CIBERSEGURIDAD
-*************************************
+*****************************************
 
+
+**********************
 1. PARROT (Loro): 
 https://www.parrotsec.org/ 
+**********************
 
 Parrot OS es una distribución GNU/Linux basada en Debian​ con un enfoque en la seguridad informática. 
 Está diseñado para pruebas de penetración, evaluación y análisis de vulnerabilidades, análisis forense de computadoras, 
 navegación web anónima, y practicar criptografía. Es desarrollado por Frozenbox Team.
 
+La parrot ocupa 45GB en máquina virtual. 
 
+
+**********************
 2. KALI (Diosa de la India):  
 https://www.kali.org/
+**********************
 
 Kali Linux es una distribución basada en Debian GNU/Linux diseñada principalmente para la auditoría 
 y seguridad informática en general. Fue fundada y es mantenida por Offensive Security Ltd
@@ -26,4 +33,7 @@ Interfaz gráfica predeterminada: Xfce, GNOME y KDE
 
 Mejores distribuciones de linux para ciberseguridad:
 https://computerhoy.20minutos.es/ciberseguridad/mejores-distribuciones-linux-quieres-probar-algo-relacionado-ciberseguridad-1414271
+
+Ocupa 34GB en máquina virtual.
+Prefiero la Kali. 
 
