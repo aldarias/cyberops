@@ -1,0 +1,23 @@
+INSTALAR PACKET TRACER 8.2.2 EN UBUNTU 24.04.2 LTS
+************************************************+++
+
+
+1. Descargar fichero  Packet_Tracer822_amd64_signed.deb
+
+Entrar en https://legacy.netacad.com/portal/resources/packet-tracer
+
+
+2. Descargar Libreria libgl1-mesa-glx_23.0.4-0ubuntu1.22.04.1_amd64.deb
+Entrar en:
+https://www.reddit.com/r/Ubuntu/comments/1e3nlar/missing_libgl1mesaglx_when_installing_packet/?tl=es-es
+
+
+sudo dpkg -i libgl1-mesa-glx_23.0.4-0ubuntu1.22.04.1_amd64.deb
+
+
+3. Ejecutar desde la terminal.
+sudo dpkg -i Packet_Tracer822_amd64_signed.deb
+
+4. Ejercitar desde la terminal
+
+sudo apt --fix-broken install
