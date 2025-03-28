@@ -135,7 +135,7 @@ No tenemos examen online de módulos, será al final del módulo 17
 Realizar los laboratorios y actividades opcionales propuestos
 Consultar y plantear  las dudas en el chat de webex
 Mirar en el repositorio el fichero leeme.txt para ver la errata.
-Recurda que han pasado dos meses y toca renovar la matricula si tienes pago aplazado. 
+Recuerda que han pasado dos meses y toca renovar la matricula si tienes pago aplazado. 
 
 MÓDULOS 15 - 16
 Esta semana trabajaremos los módulos 15 y 16, hasta el domingo 7 de abril. En esta semana vamos a estudiar herramientas de monitorización y algunas vulnerabilidades básicas muy conocidas.
@@ -145,6 +145,9 @@ Durante esta semana las actividades que tenéis que hacer son:
     • No tenemos examen online de módulos, será al final del módulo 17
     • Realizar los laboratorios y actividades opcionales propuestos
     • Consultar y plantear  las dudas en el chat de webex
+    • Se enviará emails a los alummnos morosos de pagos.
+
+
 
 MÓDULO 17
 Con el módulo 17 finalizamos el bloque de estudio de las vulnerabilidades más conocidas y los ataques asociados.
@@ -155,6 +158,7 @@ Durante esta semana las actividades que tenéis que hacer son:
     • Realizar el examen online del bloque de módulos 13 al 17. 
     • Realizar los laboratorios y actividades opcionales propuestos
     • Consultar y plantear  las dudas en el chat de webex
+    • Se cogelará a los alumnos morosos hasta que se pongan al dia.
 
 SEMANA DE RECUPERACIONES
 Esta semana hasta el domingo 27 de noviembre, la vamos a dedicar a las recuperaciones de los exámenes y actividades no aptos(<70%).
