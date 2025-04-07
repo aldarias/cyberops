@@ -37,3 +37,9 @@ https://computerhoy.20minutos.es/ciberseguridad/mejores-distribuciones-linux-qui
 Ocupa 34GB en máquina virtual.
 Prefiero la Kali. 
 
+
+FOROS DE LINUX Y CIBERSEGURIDAD
+*******************************
+
+1. Linuxchad. 
+https://foro.linuxchad.org/t/acerca-de-la-categoria-ciberseguridad/1444

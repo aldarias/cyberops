@@ -15,6 +15,9 @@ https://netacad.webex.com/webappng/sites/netacad/recording/7200a436856f4aeb91032
 Tema 5. Wireshark
 https://netacad.webex.com/webappng/sites/netacad/recording/e55989929d884d29841a78ea6f227247/playback?isEmbedded=false&mode=MomentumDark&lang=es-ES&meetingWebToken=537b7e83-aeb2-463f-8dfe-68947c0541eb
 
+Tema 12. Tutorial de Packet Tracer. Duración 55min. Explica como instalar y usar el simulador.
+Enlace de grabación: https://netacad.webex.com/netacad/ldr.php?RCID=6fda9de454d5bdf75131060105b212a0
+
 Tema 12	Video Práctica 2. Lab 12.3.4. ACL - Packet Tracert
 Video1. https://netacad.webex.com/webappng/sites/netacad/recording/69462f4d9cc34603999ab6d301cebcff/playback?isEmbedded=false&mode=MomentumDark&lang=es-ES&meetingWebToken=8fa2f8b5-44ca-4cf3-b794-0a227c323a34
 Video2. https://netacad.webex.com/webappng/sites/netacad/recording/aab9614470c74001af0496f4de0000a6/playback?isEmbedded=false&mode=MomentumDark&lang=es-ES&meetingWebToken=05935788-6fd7-405f-afea-1c5bed65931f
