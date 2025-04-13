@@ -1,0 +1,39 @@
+Esquema Nacional de Seguridad (ENS) / Ciberseguridad 
+***
+El Esquema Nacional de Seguridad (ENS) es un marco normativo español que establece los requisitos y estándares para garantizar la seguridad de la información en las administraciones públicas 
+y en los proveedores que colaboran con la Administración. Su objetivo principal es proteger los datos y sistemas de información, asegurando su:
+    Confidencialidad
+    Integridad
+    Disponibilidad
+
+El ENS tiene su origen en el Real Decreto 3/2010, de 8 de enero, que regula el Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica. 
+Este decreto se desarrolló en cumplimiento de lo establecido en la Ley 11/2007, de 22 de junio, que promueve el acceso electrónico de los ciudadanos a los servicios públicos.
+
+Con el tiempo, la creciente sofisticación de las ciberamenazas ha hecho necesario actualizar el ENS. 
+Este proceso de modernización se materializó en el Real Decreto 311/2022, de 3 de mayo, que refuerza las capacidades de defensa frente a ciberataques y fomenta la confianza en el uso de medios electrónicos.
+
+
+Fuentes:
+
+El 99% de los ayuntamientos españoles incumplen la ley de ciberseguridad
+https://cadenaser.com/cataluna/2025/04/13/el-99-de-los-ayuntamientos-espanoles-incumplen-la-ley-de-ciberseguridad-sercat/
+
+El Esquema Nacional de Seguridad (ENS): Un marco esencial para la seguridad de la información
+https://s2grupo.es/el-esquema-nacional-de-seguridad-ens/
+
+Real Decreto 3/2010, de 8 de enero, por el que se regula el Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica.
+https://www.boe.es/buscar/act.php?id=BOE-A-2010-1330
+
+Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad.
+https://www.boe.es/buscar/act.php?id=BOE-A-2022-7191
+
+
+ENAC es el Organismo Nacional de Acreditación designado por el Gobierno en aplicación del Reglamento (CE) nº765/2008 que regula el funcionamiento de la acreditación en Europa sobre la base de cinco principios fundamentales.
++ Ausencia de ánimo de lucro
++ Independencia
++ No competencia
++ Evaluación internacional
++ Reconocimiento mutuo
+
+Servicios acreditados, herramienta al servicio de la ciberseguridad
+https://www.enac.es/que-hacemos/sectores/telecomunicaciones
