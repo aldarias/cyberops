@@ -175,7 +175,7 @@ Realizar los laboratorios y actividades opcionales propuestos
 Consultar y plantear  las dudas en el chat de webex
 
 MÓDULO 20
-Esta semana hasta el 10 de diciembre vamos a trabajar el Módulo 20 que trata los servicios de inteligencia contra amenazas. Tendréis que realizar el examen del bloque de módulos del 18 al 20.
+Esta semana vamos a trabajar el Módulo 20 que trata los servicios de inteligencia contra amenazas. Tendréis que realizar el examen del bloque de módulos del 18 al 20.
 Durante esta semana las actividades que tenéis que hacer son:
 Estudiar en detalle el módulo 20 del currículum
 Realizar la autoevaluación del módulo
