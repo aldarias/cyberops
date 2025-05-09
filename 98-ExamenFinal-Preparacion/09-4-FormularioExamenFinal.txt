@@ -7,13 +7,13 @@ Quitando festivos, queda cerca de 1 mes para hacer los exámenes finales presenc
 tenéis que decir que día y hora que podéis hacerlo. En fiestas de navidad las aulas mentor están cerradas.
 
 Este formulario es para organizar el examen final presencial de cisco. Hay que entrar en esta dirección y rellenar vuestros datos.
-https://docs.google.com/forms/d/e/1FAIpQLSdF81UHSz3rXCfS7K0Fra4OyQZcDXvAOpae2QE3dOM9c8xhNg/viewform?usp=sharing
+https://docs.google.com/forms/d/e/1FAIpQLSdwixQAr4B4bAoZb73cdzRSyEZOEK2P6-L414_WQJR1SToTsg/viewform?usp=header
 
 Los datos se pueden cambiar en el formulario hasta 4 días antes de la semana de exámenes. Tres dias antes (viernes), a la semana de 
 exámenes se activaran en las fecha indicadas.
 
 También tenéis en el repositorio una carpeta llamada Examen Final Preparación que os informa como será el examen al final del aula o entrando aquí:
-https://github.com/aldarias/cyberops/tree/main/ExamenFinal-Preparacion
+https://github.com/aldarias/cyberops/tree/main/98-ExamenFinal-Preparacion
 
 Para hacer el examen hay que tener todos los tests y prácticas aprobadas. Pero con tiempo preparamos 
 las fechas del examen y recuperación. No te esperes al último día para rellenar el formulario.
