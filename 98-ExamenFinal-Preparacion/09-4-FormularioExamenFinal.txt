@@ -9,7 +9,7 @@ tenéis que decir que día y hora que podéis hacerlo. En fiestas de navidad las
 Este formulario es para organizar el examen final presencial de cisco. Sino lo hacemos con tiempo no dará tiempo
 a planificar las fechas. Hay que tenerlo  todo aprobado para poder hacer el examen.
 Hay que entrar en esta dirección y rellenar vuestros datos.
-https://docs.google.com/forms/d/e/1FAIpQLSdwixQAr4B4bAoZb73cdzRSyEZOEK2P6-L414_WQJR1SToTsg/viewform?usp=sharing
+https://docs.google.com/forms/d/e/1FAIpQLSdwixQAr4B4bAoZb73cdzRSyEZOEK2P6-L414_WQJR1SToTsg/viewform?usp=dialog  
 
 Los datos se pueden cambiar en el formulario hasta 4 días antes de la semana de exámenes. Tres dias antes (viernes), a la semana de 
 exámenes se activaran en las fecha indicadas.
