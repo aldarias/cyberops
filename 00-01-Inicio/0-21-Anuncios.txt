@@ -223,10 +223,10 @@ También tendremos que entregar la ACTIVIDAD 4.
 Durante esta semana las actividades que tenéis que hacer son:
 Estudiar en detalle el módulo 26 y 27 del currículum
 Realizar la autoevaluación del módulo
-Realizar la práctica obligatoria "Práctica 4 - SNORT-WIRESHARK-IPTABLES"
+Realizar y entregar la práctica obligatoria "Práctica 4 - SNORT-WIRESHARK-IPTABLES" que corresponde al módulo 26.
+Consultar el video para la práctica 4 en el fichero 0-16-Videos.txt
 Realizar los laboratorios y actividades opcionales propuestos
 Consultar y plantear  las dudas en el chat de webex
-
 
 MÓDULO 28
 ¡ Abordamos el último módulo del curso ! ¡ Felicidades por haber llegado hasta aquí !
@@ -234,10 +234,11 @@ Vamos a dedicar a este módulo final una semana, hasta el domingo 15 de enero.Ta
 En este capítulo, tendréis que realizar las siguientes tareas:
 Estudiar en detalle el módulo 28 del currículum
 Hacer la autoevaluación del módulo 28
-Realizar la práctica obligatoria "Práctica 4 - SNORT-WIRESHARK-IPTABLES"
 Realizar los laboratorios y actividades opcionales propuestos
 Hacer el examen obligatorio del bloque correspondiente a los módulos 26 al 28
 Consultar y plantear  las dudas en el chat de webex
+Webinar final de curso. Explicación del examen final.
+
 
 RESERVA FECHA EXAMEN FINAL PRESENCIAL
 Según la planificación del curso, la semana del 23 de enero tenemos que realizar el examen final presencial.
