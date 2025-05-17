@@ -17,10 +17,9 @@ https://github.com/aldarias/cyberops/blob/main/98-ExamenFinal-Preparacion/09-2-V
 3. Encuesta para el profesor. 
 Es obligatoria hacerla y es información para el profesor. Se activa antes y durante los exámenes finales.
 Se hace en un formulario de Google.
-https://github.com/aldarias/cyberops/blob/main/99-ExamenFinal-Postexamen/10-1-PostExamen.pdf
 Si la encuesta no se realiza el profe no deja entregar el certificado.
 
-Sólo se realizarán los exámenes y se entregarán los certificados si las encuestas se han realizado.
+Resumiendo. Las encuestas son obligatorias y sólo se entregarán los certificados si las encuestas se han realizado.
 
 Un saludo
 Paco Aldarias.
