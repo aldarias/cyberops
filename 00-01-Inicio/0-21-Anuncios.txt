@@ -207,7 +207,7 @@ Durante esta semana las actividades que tenéis que hacer son:
 
 MÓDULOS 24 - 25
 Ánimo que estamos llegando al final del curso.
-Hasta el domingo 1 de enero vamos a trabajar los módulos 24 y 25. También tendremos que realizar el examen de estos módulos.
+Hasta el domingo, vamos a trabajar los módulos 24 y 25. También tendremos que realizar el examen de estos módulos.
 Durante esta semana vamos a estudiar tecnologías de seguridad y su monitorización. También veremos qué información se registra en las capturas dedatos para la supervisión de seguridad.
 Las actividades que tenéis que hacer son:
 Estudiar en detalle el módulo 24 y 25 del currículum
