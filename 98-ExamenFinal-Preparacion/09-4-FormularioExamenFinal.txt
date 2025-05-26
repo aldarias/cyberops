@@ -4,10 +4,11 @@ Formulario de toma de datos.
 Hola a tod@s
 
 Quitando festivos, queda cerca de 1 mes para hacer los exámenes finales presenciales en las aulas mentor, y
-tenéis que decir que día y hora que podéis hacerlo. En fiestas de navidad las aulas mentor están cerradas.
+tenéis que decir que día y hora que podéis hacerlo. 
 
 Este formulario es para organizar el examen final presencial de cisco. Sino lo hacemos con tiempo no dará tiempo
 a planificar las fechas. Hay que tenerlo  todo aprobado para poder hacer el examen.
+
 Hay que entrar en esta dirección y rellenar vuestros datos.
 https://docs.google.com/forms/d/e/1FAIpQLSdwixQAr4B4bAoZb73cdzRSyEZOEK2P6-L414_WQJR1SToTsg/viewform?usp=dialog  
 
