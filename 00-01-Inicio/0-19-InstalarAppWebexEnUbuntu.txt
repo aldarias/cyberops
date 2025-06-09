@@ -3,6 +3,7 @@ Por Paco Aldarias
 El 22-12-2024
 
 1. Descargar la app de webex para ubuntu. Es un fichero .deb
+https://www.webex.com/es/downloads.html
 
 2. Instalarlo con:
 dpgk -i  fichero.deb
