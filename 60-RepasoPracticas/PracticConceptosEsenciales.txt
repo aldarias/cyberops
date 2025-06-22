@@ -1,0 +1,61 @@
+Conceptos Esenciales de Ciberseguridad y Gestión de Sistemas
+
+¿Qué es la virtualización y cuáles son sus componentes clave?
+
+La virtualización permite que al menos una computadora virtual (conocida como "máquina virtual" o "guest") funcione dentro de una computadora física (denominada "host"). Este proceso es posible gracias al aumento del poder computacional y los recursos de hardware en los últimos años, como los procesadores de varios núcleos y grandes cantidades de RAM. Básicamente, permite ejecutar múltiples sistemas operativos o entornos en una única máquina física.
+¿Cómo se utilizan las herramientas como Wireshark, Nmap, y Snort en ciberseguridad?
+
+    Wireshark: Es una herramienta de análisis de tráfico de red que se utiliza para capturar y examinar paquetes de datos. Permite observar detalles de la comunicación de red, como consultas y respuestas DNS, tráfico UDP y TCP, incluyendo el protocolo de enlace TCP de 3 vías. Es fundamental para comprender el flujo de datos y diagnosticar problemas de red o identificar actividades sospechosas.
+    Nmap: Es una herramienta de exploración de red y seguridad (escáner de puertos) que se utiliza para escanear una red y determinar los hosts y servicios disponibles. Sus características incluyen el descubrimiento de hosts, el escaneo de puertos y la detección del sistema operativo. Es comúnmente empleada para auditorías de seguridad, identificación de puertos abiertos, inventario de red y búsqueda de vulnerabilidades.
+    Snort: Es un Sistema de Detección de Intrusiones (IDS) que se basa en reglas predefinidas para señalar tráfico potencialmente dañino. Analiza todas las porciones de los paquetes de red (encabezados y cargas útiles) en busca de patrones definidos en sus reglas y toma medidas cuando los encuentra.
+
+¿Qué es un "log" (archivo de registro) en un sistema y dónde se pueden encontrar?
+
+Los archivos de registro son registros de eventos que describen actividades del sistema o de la red. Contienen marcas de tiempo que pueden estar en formato Unix Epoch (segundos desde el 1 de enero de 1970) o Human Readable (valores separados para año, mes, día, horas, minutos y segundos).
+
+En sistemas Linux, los archivos de registro se pueden encontrar en directorios específicos. Por ejemplo:
+
+    /nsm/sensor_data/: Almacena archivos de registro generados por Snort.
+    /var/log/nsm/: Contiene otros archivos de registro específicos de la red y la seguridad.
+    /var/log/nginx/: Contiene archivos de registro de acceso para el servidor web Nginx (por ejemplo, access.log).
+    /var/log/: Es el directorio principal para muchos archivos de registro del sistema, como auth.log, daemon.log, syslog.log, y kernel logs que detallan la actividad del kernel.
+    /var/log/journal/: A menudo gestionado por systemd-journald, contiene registros del sistema que pueden ser consultados con el comando journalctl.
+
+¿Qué son los procesos en un sistema operativo y cómo se pueden gestionar o identificar actividades anómalas?
+
+Un proceso es una instancia de un programa en ejecución. En sistemas Windows, procesos como lsass.exe (Autoridad de Seguridad Local), services.exe (gestiona servicios) y svchost.exe (host de servicio para compartir recursos) son fundamentales para el funcionamiento normal del sistema y se encuentran típicamente en C:\Windows\System32\. Si estos ejecutables se encuentran en otras ubicaciones del sistema, podrían ser indicativos de malware (virus, spyware, troyanos o gusanos).
+
+En sistemas Linux, el comando ps se utiliza para mostrar los programas en ejecución, y netstat permite ver las conexiones de red activas y los procesos asociados. Identificar procesos inusuales o sus ubicaciones es clave para la detección de amenazas.
+¿Cómo se gestionan los permisos y la propiedad de los archivos en Linux?
+
+En los sistemas de archivos de Linux, cada archivo y directorio tiene un conjunto de permisos que controlan la capacidad de los usuarios para ver, cambiar, navegar y ejecutar su contenido. Estos permisos se definen para el propietario del archivo, el grupo al que pertenece el archivo y otros usuarios.
+
+    Tipos de archivos: Se pueden identificar por un prefijo en la lista de permisos (ej., d para directorio, - para archivo regular, b para archivo de bloques, c para archivo de caracteres, l para enlace simbólico).
+    Comandos clave:ls -l: Muestra los permisos detallados de archivos y directorios.
+    chmod: Se utiliza para cambiar los permisos de un archivo o directorio, a menudo usando formato octal (ej., 665 para rw-rw-r-x).
+    chown: Se usa para cambiar el propietario de un archivo o directorio (ej., sudo chown analyst myFile.txt).
+    Funcionamiento de los permisos: El permiso de ejecución en un archivo regular permite ejecutarlo. En un directorio, el permiso de ejecución permite a un usuario entrar a ese directorio. La correcta configuración de permisos es crucial para la seguridad y el funcionamiento del sistema.
+
+¿Qué es el "punto de montaje" en Linux y cómo se relaciona con el acceso a los sistemas de archivos?
+
+En Linux, un sistema de archivos debe ser "montado" antes de que se pueda acceder a él y utilizarlo. Montar un sistema de archivos implica vincular una partición física en un dispositivo de bloques (como un disco duro, SSD o unidad USB, representados como /dev/sdX) a un directorio específico. Este directorio se convierte en la "raíz" del sistema de archivos recién montado y se conoce como "punto de montaje".
+
+    Comandos clave:lsblk: Muestra todos los dispositivos de bloques y sus particiones, indicando si están montados.
+    mount: Muestra información detallada sobre los sistemas de archivos actualmente montados o se utiliza para montar un dispositivo en un punto de montaje.
+    umount: Se usa para desmontar un sistema de archivos.
+    Ejemplo: Montar /dev/sdb1 en ~/second_drive/ hace que el contenido de esa partición sea accesible a través del directorio second_drive. Si un dispositivo no está montado, su contenido no es directamente accesible en el sistema de archivos principal.
+
+¿Qué se entiende por "vulnerabilidad" en el contexto de ciberseguridad?
+
+Una vulnerabilidad se refiere a una debilidad o falla en un sistema, aplicación o protocolo que puede ser explotada por un atacante. Las preguntas clave al analizar una vulnerabilidad son:
+
+    ¿Cuál es la vulnerabilidad específica?
+    ¿Quién podría explotarla y cómo?
+    ¿Por qué existe esta vulnerabilidad? (Por ejemplo, debido a configuraciones incorrectas, errores de diseño, software desactualizado, etc.)
+
+La identificación y comprensión de estas debilidades son fundamentales para la prevención y mitigación de ataques cibernéticos.
+¿Qué papel juegan los firewalls y las reglas de red en la protección de un sistema?
+
+Los firewalls son sistemas de seguridad de red que monitorean y controlan el tráfico de red entrante y saliente basándose en un conjunto predeterminado de reglas de seguridad. Las reglas de firewall, como las configuradas con iptables en Linux, especifican acciones a tomar (ej., DROP para descartar un paquete) para ciertos tipos de tráfico, protocolos (ej., TCP), direcciones IP de origen o destino, y números de puerto.
+
+Por ejemplo, una regla iptables -I FORWARD -p tcp -d 209.165.202.133 --dport 6666 -j DROP inserta una regla en la cadena FORWARD para bloquear conexiones TCP al destino 209.165.202.133 en el puerto 6666. Las cadenas de un firewall (INPUT, OUTPUT, FORWARD) determinan qué tipo de tráfico gestiona una regla. Son esenciales para proteger las redes al filtrar el tráfico no deseado o malicioso.

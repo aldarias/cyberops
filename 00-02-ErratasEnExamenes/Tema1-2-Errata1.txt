@@ -1,0 +1,21 @@
+Cisco Cyberops.
+Examen modulos 1 y 2.
+Pregunta 19
+
+
+¿Cómo puede utilizarse un sistema de administración de información y eventos de seguridad (SIEM) en un SOC para que ayude al personal a luchar contra las amenazas de seguridad?
+a) Mediante el análisis de datos de registro en tiempo real 
+b) Mediante la integración de todos los dispositivos de seguridad y las aplicaciones en una organización
+c) Mediante la aplicación dinámica de reglas de firewall
+d) Mediante la combinación de datos de múltiples tecnologías 
+
+De las opciones presentadas, las más adecuadas para describir cómo un SIEM ayuda al personal de un SOC a luchar contra las amenazas de seguridad son:
+
+    a) Mediante el análisis de datos de registro en tiempo real: Esta es una función central del SIEM. Recopila y analiza continuamente los datos de registro de diversas fuentes para detectar anomalías y posibles amenazas a medida que ocurren, permitiendo una respuesta rápida por parte del personal del SOC.
+    d) Mediante la combinación de datos de múltiples tecnologías: Un SIEM agrega y correlaciona datos de diferentes tecnologías y dispositivos (firewalls, IDS/IPS, servidores, aplicaciones, etc.). Esta combinación de datos permite una visión más completa y la detección de patrones de ataque que no serían evidentes al analizar una sola fuente de datos.
+
+La opción b) Mediante la integración de todos los dispositivos de seguridad y las aplicaciones en una organización es un prerrequisito para que el SIEM funcione eficazmente, ya que necesita recopilar datos de todas estas fuentes. Sin embargo, no describe directamente cómo ayuda al personal a luchar contra las amenazas, sino cómo se alimenta de información.
+
+La opción c) Mediante la aplicación dinámica de reglas de firewall no es una función principal del SIEM. Si bien un SIEM puede alertar sobre la necesidad de aplicar o modificar reglas de firewall basándose en la detección de amenazas, la aplicación dinámica de esas reglas es típicamente una función de otros sistemas como un firewall de próxima generación o una plataforma SOAR (Orquestación, Automatización y Respuesta de Seguridad) que podría integrarse con el SIEM.
+
+Por lo tanto, las respuestas más directas y precisas que explican el rol del SIEM en la lucha contra las amenazas son a) y d).
