@@ -6,6 +6,8 @@ Hola buenos dias
 Si recibes este correo es porque has completado el curso y se te ha generado el certificado correspondiente, 
 el cual será enviad a mentor para que se cuñe y te lo envien en papel a tu dirección.
 
+Puedes descargarte el cerficado en: Perfil > update profile > badges & certificates
+
 Si cumples los requisitos de nota dentro de unos pocos dias veras que tienes un descuento o voucher 
 para poder examinarte en  cisco.
 
