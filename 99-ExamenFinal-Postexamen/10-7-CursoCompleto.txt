@@ -10,7 +10,7 @@ También puedes descargarte digitalmente el cerficado en: Perfil > update profil
 
 Si cumples los requisitos de nota dentro de unos pocos dias verás que tienes un descuento o voucher 
 para poder examinarte en  cisco.
-
+https://github.com/aldarias/cyberops/blob/main/99-ExamenFinal-Postexamen/10-3-CertificacionOficial.pdf
 
 Ya puedes solicitar tu insignia o badge para poder compartirla en redes sociales.
 https://github.com/aldarias/cyberops/blob/main/99-ExamenFinal-Postexamen/10-2-Insignias.pdf
