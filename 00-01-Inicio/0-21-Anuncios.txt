@@ -31,7 +31,7 @@ Siguiendo la planificación del curso, que podéis consultar en la página de in
 Utilizaremos webex como medio de comunicación para poner dudas y el email como medio alternativo. 
 
 Leer el documento de bienvenida:
-https://github.com/aldarias/cyberops/blob/main/00-Inicio/0-00-BienvenidaCyberops.pdf
+https://github.com/aldarias/cyberops/blob/main/00-01-Inicio/0-00-BienvenidaCyberops.pdf
 
 Un saludo.
 Paco Aldarias
