@@ -1,5 +1,10 @@
 VIDEOS DEL CURSO.
 ******************
+
+Tema 0 Presentación Sep.25
+Grabación de la reunión de Webex: CYBEROPS-S25-PA-20250912 1708-1
+Enlace de grabación: https://netacad.webex.com/netacad/ldr.php?RCID=7de50db46339c40456bc8c31e94efceb
+
 Tema 0 Presentación Feb.25
 https://netacad.webex.com/webappng/sites/netacad/recording/ef06022f35314f9b8d218fd67afe4884/playback?isEmbedded=false&mode=MomentumDark&lang=es-ES&meetingWebToken=9387a059-7528-4a11-87a9-37e10bed429c
 
