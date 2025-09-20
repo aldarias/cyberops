@@ -24,7 +24,7 @@ MÓDULOS 26 - 27	18
 RESERVA FECHA EXAMEN FINAL PRESENCIAL	20
 CÓMO VA A SER EL EXAMEN FINAL PRESENCIAL	21
 
-
+[CISCOCYBEROPS] 
 INTRODUCCIÓN AL CURSO
 Un saludo a todos y bienvenidos a la plataforma de e-learning netacad de Cisco. Soy Francisco Aldarias y voy a ser vuestro instructor en este curso.
 Siguiendo la planificación del curso, que podéis consultar en la página de inicio, esta semana la hemos dedicado a daros de alta en la plataforma y a solucionar los problemas puntuales asociados.
@@ -37,7 +37,7 @@ Un saludo.
 Paco Aldarias
 
 ****************************************************
-
+[CISCOCYBEROPS] 
 PRESENTACIÓN
 Hola a tod@s
 Soy Paco Aldarias, vuestro profesor de cyberops y voy a presentarme. Soy de Valencia y tengo 57 años, estoy casado y tengo una hija. Soy ingeniero superior  de informática por la Universidad Politécnica de Valencia. Soy profesor titular de enseñanza secundaria y profesor en un centro donde se imparte redes,  desarrollo de aplicaciones web y móviles de titularidad  pública y a distancia de Valencia.
@@ -47,6 +47,7 @@ Haremos una reunión con webex el primer viernes del curso, para  presentarlo.
 Si quieres, te puedes presentar en el chat de webex.
 Un saludo
 
+[CISCOCYBEROPS] 
 MÓDULOS: 1 - 2
 ¡ Comenzamos con el contenido del curso !
 Siguiendo con la planificación del curso del x al y,
@@ -62,9 +63,16 @@ Las tareas que debéis completar para estas semanas son:
     • Consultar y plantear  las dudas en el chat de webex
     • Tenemos Reunión con webex con la presentación del curso.
 
+[Enlace al curso]
+https://www.netacad.com/es/my-classes#
 
+Un saludo
+
+****
+
+[CISCOCYBEROPS] MÓDULOS 3 - 4. Del 22 al 28 Sep
 MÓDULOS 3 - 4
-Siguiendo con la planificación del curso del x al y,
+Siguiendo con la planificación del curso.
 Vamos a abordar el estudio de los Módulos 3 y 4. Van a ser unos módulos más prácticos. Estudiaremos conceptos básicos de sistemas operativos y algunas herramientas relacionadas con la seguridad.
 Si no habéis superado el examen del módulo 1-2 no os preocupéis, podréis volver a intentarlo en la semana de recuperaciones. 
 Consultar la planificación del curso. Ahora debéis centraros en los módulos de esta semana.
@@ -77,10 +85,16 @@ Durante esta semana las actividades que tenéis que hacer son:
     • Realizar los laboratorios y actividades opcionales propuestos
     • Consultar y plantear  las dudas en el chat de webex
     • Entregar la Práctica obligatoria: Actividad 1 - Administración de LINUX. 
-    
-MÓDULOS 5 - 6
 
-Del x al y.
+[Enlace al curso]
+https://www.netacad.com/es/my-classes#
+
+Un saludo
+****
+
+[CISCOCYBEROPS]  MÓDULOS 5 - 6. Del x al y.
+
+
 Vamos a trabajar unos módulos relacionados con redes y protocolos de comunicación.
 Las actividades que tenéis que hacer son:
     • Estudiar en detalle los módulos 5-6 del currículum
@@ -89,7 +103,7 @@ Las actividades que tenéis que hacer son:
     • Realizar los laboratorios y actividades opcionales propuestos
     • Consultar y plantear  las dudas en el chat de webex
     
-
+****
 
 
 MÓDULOS 7 - 8
