@@ -92,9 +92,7 @@ https://www.netacad.com/es/my-classes#
 Un saludo
 ****
 
-[CISCOCYBEROPS]  MÓDULOS 5 - 6. Del x al y.
-
-
+MÓDULOS 5 - 6. Del x al y.
 Vamos a trabajar unos módulos relacionados con redes y protocolos de comunicación.
 Las actividades que tenéis que hacer son:
     • Estudiar en detalle los módulos 5-6 del currículum
@@ -105,10 +103,7 @@ Las actividades que tenéis que hacer son:
     
 ****
 
-
-MÓDULOS 7 - 8
-
-Del x al y 
+[CISCOCYBEROPS] MÓDULOS 7 - 8. Del x al y 
 Vamos a trabajar los módulos 7 y 8 del curso.
 Las actividades para esta semana son:
     • Estudiar en detalle los módulos 7-8 del currículum
@@ -117,7 +112,7 @@ Las actividades para esta semana son:
     • Realizar los laboratorios y actividades opcionales propuestos
     • Consultar y plantear  las dudas en el chat de webex
 
-MÓDULOS 9 - 10
+[CISCOCYBEROPS] MÓDULOS 9 - 10
 Siguiendo con la planificación del curso del x al y, abordamos los 2 últimos módulos de este bloque.
 ATENCIÓN: esta semana tenemos examen de módulos.
 En esta semana vamos a profundizar en la capa de transporte y estudiaremos los servicios de red más habituales. Tenéis unas prácticas muy interesantes con wireshark. Esta semana además tendréis el examen de los módulos 5 al 10.
