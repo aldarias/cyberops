@@ -113,7 +113,7 @@ Las actividades para esta semana son:
     • Consultar y plantear  las dudas en el chat de webex
 
 [CISCOCYBEROPS] MÓDULOS 9 - 10
-Siguiendo con la planificación del curso del x al y, abordamos los 2 últimos módulos de este bloque.
+Siguiendo con la planificación del curso y, abordamos los 2 últimos módulos de este bloque.
 ATENCIÓN: esta semana tenemos examen de módulos.
 En esta semana vamos a profundizar en la capa de transporte y estudiaremos los servicios de red más habituales. Tenéis unas prácticas muy interesantes con wireshark. Esta semana además tendréis el examen de los módulos 5 al 10.
 Durante esta semana las actividades que tenéis que hacer son:
@@ -124,7 +124,7 @@ Durante esta semana las actividades que tenéis que hacer son:
     • Consultar y plantear  las dudas en el chat de webex
 
 MÓDULOS 11 - 12
-Módulos 11 y 12 del curso, siguiendo con la planificación del curso del x al y,. 
+Módulos 11 y 12 del curso, siguiendo con la planificación del curso. 
 En esta semana vamos a estudiar los tipos de redes de comunicaciones
 y cómo podemos mejorar su seguridad.
 Durante esta semana las actividades que tenéis que hacer son:
@@ -136,7 +136,8 @@ Durante esta semana las actividades que tenéis que hacer son:
     • Consultar y plantear  las dudas en el chat de webex
 
 MÓDULOS 13 - 14
-Esta semana vamos a trabajar los módulos 13 y 14 del curso, hasta el domingo 6 de noviembre. En esta semana vamos a estudiar los ataques de seguridad más conocidos.
+Esta semana vamos a trabajar los módulos 13 y 14 del curso. 
+En esta semana vamos a estudiar los ataques de seguridad más conocidos.
 Las actividades que tenéis que hacer son:
 Estudiar en detalle los módulos 13-14 del currículum
 Realizar la autoevaluación del módulo
@@ -147,7 +148,8 @@ Mirar en el repositorio el fichero leeme.txt para ver la errata.
 Recuerda que han pasado dos meses y toca renovar la matricula si tienes pago aplazado. 
 
 MÓDULOS 15 - 16
-Esta semana trabajaremos los módulos 15 y 16, hasta el domingo 7 de abril. En esta semana vamos a estudiar herramientas de monitorización y algunas vulnerabilidades básicas muy conocidas.
+Esta semana trabajaremos los módulos 15 y 16, hasta el domingo 7 de abril. 
+En esta semana vamos a estudiar herramientas de monitorización y algunas vulnerabilidades básicas muy conocidas.
 Durante esta semana las actividades que tenéis que hacer son:
     • Estudiar en detalle los módulos 15-16 del currículum
     • Realizar la autoevaluación del módulo
