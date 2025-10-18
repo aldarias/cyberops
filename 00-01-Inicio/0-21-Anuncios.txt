@@ -92,7 +92,7 @@ https://www.netacad.com/es/my-classes#
 Un saludo
 ****
 
-MÓDULOS 5 - 6. Del x al y.
+[CISCOCYBEROPS]  MÓDULOS 5 - 6. Del x al y.
 Vamos a trabajar unos módulos relacionados con redes y protocolos de comunicación.
 Las actividades que tenéis que hacer son:
     • Estudiar en detalle los módulos 5-6 del currículum
@@ -123,7 +123,7 @@ Durante esta semana las actividades que tenéis que hacer son:
     • Realizar los laboratorios y actividades opcionales propuestos
     • Consultar y plantear  las dudas en el chat de webex
 
-MÓDULOS 11 - 12
+[CISCOCYBEROPS] MÓDULOS 11 - 12
 Módulos 11 y 12 del curso, siguiendo con la planificación del curso. 
 En esta semana vamos a estudiar los tipos de redes de comunicaciones
 y cómo podemos mejorar su seguridad.
@@ -135,7 +135,7 @@ Durante esta semana las actividades que tenéis que hacer son:
     • Entregar la actividad 2 acl, que utiliza el tema 12.
     • Consultar y plantear  las dudas en el chat de webex
 
-MÓDULOS 13 - 14
+[CISCOCYBEROPS] MÓDULOS 13 - 14
 Esta semana vamos a trabajar los módulos 13 y 14 del curso. 
 En esta semana vamos a estudiar los ataques de seguridad más conocidos.
 Las actividades que tenéis que hacer son:
@@ -147,7 +147,7 @@ Consultar y plantear  las dudas en el chat de webex
 Mirar en el repositorio el fichero leeme.txt para ver la errata.
 Recuerda que han pasado dos meses y toca renovar la matricula si tienes pago aplazado. 
 
-MÓDULOS 15 - 16
+[CISCOCYBEROPS] MÓDULOS 15 - 16
 Esta semana trabajaremos los módulos 15 y 16, hasta el domingo 7 de abril. 
 En esta semana vamos a estudiar herramientas de monitorización y algunas vulnerabilidades básicas muy conocidas.
 Durante esta semana las actividades que tenéis que hacer son:
@@ -160,7 +160,7 @@ Durante esta semana las actividades que tenéis que hacer son:
 
 
 
-MÓDULO 17
+[CISCOCYBEROPS] MÓDULO 17
 Con el módulo 17 finalizamos el bloque de estudio de las vulnerabilidades más conocidas y los ataques asociados.
 Esta semana tendremos que realizar el examen de todo el bloque de módulos 13 al 17.
 Durante esta semana las actividades que tenéis que hacer son:
@@ -171,13 +171,13 @@ Durante esta semana las actividades que tenéis que hacer son:
     • Consultar y plantear  las dudas en el chat de webex
     • Se cogelará a los alumnos morosos hasta que se pongan al dia.
 
-SEMANA DE RECUPERACIONES. Del 21 al 27 abril.
+[CISCOCYBEROPS] SEMANA DE RECUPERACIONES. Del 21 al 27 abril.
 Esta semana la vamos a dedicar a las recuperaciones de los exámenes y actividades no aptos(<70%).
 Las condiciones para la activación de los exámenes son las siguientes:
 No existen reactivaciones para subir de nota, sólo para la realización de exámenes no superados (>70%)
 Recordad que tenéis un máximo de 3 oportunidades para aprobar cada examen o tarea
 
-MÓDULOS 18 - 19
+[CISCOCYBEROPS] MÓDULOS 18 - 19
 Hasta el domingo 3 de diciembre estudiaremos los módulos 18 y 19 del curso. Vamos a profundizar en políticas de seguridad y control de acceso.
 Durante esta semana las actividades que tenéis que hacer son:
 Estudiar en detalle los módulos 18 y 19 del currículum
@@ -185,7 +185,7 @@ Realizar la autoevaluación
 Realizar los laboratorios y actividades opcionales propuestos
 Consultar y plantear  las dudas en el chat de webex
 
-MÓDULO 20
+[CISCOCYBEROPS] MÓDULO 20
 Esta semana vamos a trabajar el Módulo 20 que trata los servicios de inteligencia contra amenazas. Tendréis que realizar el examen del bloque de módulos del 18 al 20.
 Durante esta semana las actividades que tenéis que hacer son:
 Estudiar en detalle el módulo 20 del currículum
@@ -195,7 +195,7 @@ Realizar los laboratorios y actividades opcionales propuestos
 Consultar y plantear  las dudas en el chat de webex
 
 
-MÓDULOS 21 y 22
+[CISCOCYBEROPS] MÓDULOS 21 y 22
 Esta semana, hasta el domingo 18 de diciembre, vamos a trabajar la criptografía aplicada a la seguridad. Tendréis que realizar la Práctica 3.
 Durante esta semana las actividades que tenéis que hacer son:
 Estudiar en detalle el módulo 21 y 22 del currículum
@@ -206,7 +206,7 @@ Consultar y plantear  las dudas en el chat de webex
 Webinar Prac 3. Módulo 21. SHA 
 Rellenar el formulario de fecha y hora del examen final.
 
-MÓDULO 23
+[CISCOCYBEROPS] MÓDULO 23
 Esta semana nos toca el Módulo 23 que analiza las vulnerabilidades de los equipos. 
 Durante esta semana las actividades que tenéis que hacer son:
     • Estudiar en detalle el módulo 23 del currículum
@@ -216,7 +216,7 @@ Durante esta semana las actividades que tenéis que hacer son:
     • Realizar los laboratorios y actividades opcionales propuestos
     • Consultar y plantear  las dudas en el chat de webex
 
-MÓDULOS 24 - 25
+[CISCOCYBEROPS] [CISCOCYBEROPS] MÓDULOS 24 - 25
 Ánimo que estamos llegando al final del curso.
 Hasta el domingo, vamos a trabajar los módulos 24 y 25. También tendremos que realizar el examen de estos módulos.
 Durante esta semana vamos a estudiar tecnologías de seguridad y su monitorización. También veremos qué información se registra en las capturas dedatos para la supervisión de seguridad.
@@ -227,7 +227,7 @@ Realizar el examen online del bloque de módulos 24 al 25
 Realizar los laboratorios y actividades opcionales propuestos
 Consultar y plantear  las dudas en el chat de webex
 
-MÓDULOS 26 - 27. 
+[CISCOCYBEROPS] MÓDULOS 26 - 27. 
 Ya estamos llegando al final del curso. Os animo a intensificar el trabajo y dar un último empujón.
 Esta semana, hasta el domingo estudiaremos los módulos 26 y 27. 
 También tendremos que entregar la ACTIVIDAD 4.
@@ -239,7 +239,7 @@ Consultar el video para la práctica 4 en el fichero 0-16-Videos.txt
 Realizar los laboratorios y actividades opcionales propuestos
 Consultar y plantear  las dudas en el chat de webex
 
-MÓDULO 28
+[CISCOCYBEROPS] MÓDULO 28
 ¡ Abordamos el último módulo del curso ! ¡ Felicidades por haber llegado hasta aquí !
 Vamos a dedicar a este módulo final una semana, hasta el domingo. También tendremos que entregar la ACTIVIDAD 4.
 En este capítulo, tendréis que realizar las siguientes tareas:
@@ -251,7 +251,7 @@ Consultar y plantear  las dudas en el chat de webex
 Webinar final de curso. Explicación del examen final.
 
 
-RESERVA FECHA EXAMEN FINAL PRESENCIAL
+[CISCOCYBEROPS] RESERVA FECHA EXAMEN FINAL PRESENCIAL
 Según la planificación del curso, tenemos que realizar el examen final presencial a continución.
 
 IMPORTANTE: Únicamente podrán presentarse a estos exámenes finales aquellos alumnos que tengan TODO APTO (>70%) y estén al corriente de los pagos de la matrícula.
