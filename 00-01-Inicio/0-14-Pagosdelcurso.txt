@@ -1,14 +1,11 @@
 Pagos del curso
 Breve explicación
-21-11-2024
+01-11-2025
 
 
 Los tutores no llevamos los cobros de los alumnos.
-
 Cualquier curso de mentor tiene la opción de pagar todo el curso o por partes.
-
 En el centro virtual educativo(cve) el tutor del curso puede comprobar si un alumno esta al corriente de pagos. 
-
 El alumno puede entrar al cve y comprobar que fecha tiene que renovar los pagos.
 
 A los profesor/tutores nos pagan según los alumnos matriculados, y es por ello que si el alumno no renueva el pago,
@@ -24,14 +21,10 @@ Fechas previstas de renovación para pagos aplazados (dos meses después):
 2. Inicio curso en Septiembre renuevan en inicio de Noviembre
 
 Acciones que se van tomar:
-
 1. Se avisará la semana siguiente de renovación de pagos a aquellos alumnos que estén morosos.
-
 2. Una semana después se pasará de estado inscrito a suspendido sino se justifica el pago. 
 Esto impedirá el acceso al curso. Una vez se page se reactivará y podrá continuar por donde
 se quedo en el curso.
-
 3. El examen final no podrá hacerlo sino está al corriente del pagos.
-
 
 Un saludo
