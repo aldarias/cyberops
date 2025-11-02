@@ -146,6 +146,7 @@ Realizar los laboratorios y actividades opcionales propuestos
 Consultar y plantear  las dudas en el chat de webex
 Mirar en el repositorio el fichero leeme.txt para ver la errata.
 Recuerda que han pasado dos meses y toca renovar la matricula si tienes pago aplazado. 
+Si has pagado todo en un único pago, comprueba  que está correctamente registrado en mentor, para que no llegue un aviso de que tienes que ponerte al dia.
 
 [CISCOCYBEROPS] MÓDULOS 15 - 16
 Esta semana trabajaremos los módulos 15 y 16.
