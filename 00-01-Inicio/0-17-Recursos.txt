@@ -8,3 +8,6 @@ https://github.com/aldarias/cyberops/blob/main/Modulo00-Inicio/0-10-Linux-Cibers
 
 Lista de correo ciberseguridad mentor.  
 https://groups.google.com/u/1/g/mentorcyberops 
+
+Web sobre ciberseguridad. Tiene también blog y foro.
+https://www.elhacker.net/
