@@ -2,7 +2,7 @@ ENCUESTAS
 *********
 
 Las encuestas son un modo de saber si el curso va bien, y poder mejorarlo. 
-Es un medida de calidad que hacer que los cursos vayan a mejor.
+Es un medida de calidad que permiten que los cursos vayan a mejor.
 
 En el curso existen las siguiente encuestas:
 
