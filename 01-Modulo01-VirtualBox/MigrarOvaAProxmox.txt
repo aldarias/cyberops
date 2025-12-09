@@ -1,5 +1,14 @@
 -Migrar de OVA a Proxmox
 
+0. Introducción
+
+Un fichero ova es un fichero para importar una máquina virtual en VirtualBox.
+
+Proxmox en un entorno web que permite tener máquinas virtuales en modo remoto.
+Es decir, proxmox seria como Virtualbox pero más completo, ya que permite virtualizar máquinas, 
+tener contenedores, de forma remota y gestionable por web, permite hacer backups, etc.
+
+Resumiendo => Virtaul Box = Proxmox
 
 0. Descargamos los ficheros .ova y los copiamos en pve dentro de /root/ovas
 
