@@ -10,6 +10,8 @@ tener contenedores, de forma remota y gestionable por web, permite hacer backups
 
 Resumiendo => Virtaul Box = Proxmox
 
+Sino vas a usar Proxmox olvidate de este documento.
+
 0. Descargamos los ficheros .ova y los copiamos en pve dentro de /root/ovas
 
 cd ovas/
