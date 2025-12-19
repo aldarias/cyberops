@@ -1,8 +1,15 @@
 Error en cisco cyberops práctica 10.4.3
+
 Hay problemas con la práctica de laboratorio 10.4.3 "Utilizar Wireshark para examinar capturas de TCP y UDP Topología - Parte 1 (FTP)".
 https://contenthub.netacad.com/cyberops/10.4.3
+
 Al intentar acceder al servidor FTP con el usuario "anonymous" no deja.
 Cuando se intenta acceder aparece Error 331
 Habría que poner un servidor ftp válido o cambiar de servicio de internet.
-Encontrado servidor ftp publico que funciona:  ftp.informatik.rwth-aachen.de
+
+1. Encontrado servidor ftp publico que funciona:  ftp.informatik.rwth-aachen.de
 Adjuntada captura de un cliente ftp conectado a  ftp.informatik.rwth-aachen.de
+
+2. He encontrado un servicio ftp disponible que acepta el usuario anonymous.
+ftp ftp.scene.org
+
