@@ -217,7 +217,7 @@ Durante esta semana las actividades que tenéis que hacer son:
     • Realizar los laboratorios y actividades opcionales propuestos
     • Consultar y plantear  las dudas en el chat de webex
 
-[CISCOCYBEROPS] [CISCOCYBEROPS] MÓDULOS 24 - 25
+[CISCOCYBEROPS] MÓDULOS 24 - 25
 Ánimo que estamos llegando al final del curso.
 Hasta el domingo, vamos a trabajar los módulos 24 y 25. También tendremos que realizar el examen de estos módulos.
 Durante esta semana vamos a estudiar tecnologías de seguridad y su monitorización. También veremos qué información se registra en las capturas dedatos para la supervisión de seguridad.
