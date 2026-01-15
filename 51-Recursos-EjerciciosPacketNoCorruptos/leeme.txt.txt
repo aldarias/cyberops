@@ -1,0 +1,18 @@
+14/1/2026
+
+Este documento es de aclaración del contenido de la carpeta.
+
+Fuente:
+Pedro Juan Roig Roig Jan 14 12:12PM +0100 
+
+Ficheros corruptos packet tracer 12.3.4. Cyberops Associatte
+
+Hace un tiempo Cisco hizo un cambio en el CyberOps Associate y a partir de
+entonces los ejercicios de Packet Tracer ya no se pudieron descargar
+(excepto el 7.2.8).
+
+Sin embargo, hemos puesto una copia en esta carpeta en la nube:
+https://drive.google.com/drive/folders/1uWrwqPRrrB1sbFkBF01qE-zY3vIf3fPQ?usp=drive_link
+
+Saludos
+ 
