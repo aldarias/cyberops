@@ -1,0 +1,71 @@
+Material para revisar onceptos que fueron los que más fallaron en el examen de Enero del 2025  los alumnos de cisco ciberops:
+
+• Talleres de Sintaxis de Comandos: Dedicar más tiempo a la práctica de comandos de iptables y nmap, insistiendo en la importancia de los modificadores y el orden de los argumentos.
+• Fundamentos de Linux: Reforzar el uso de comandos de visualización de archivos (head, tail, cat, more) para evitar confusiones en el análisis de logs.
+• Taxonomía Criptográfica: Crear cuadros comparativos claros entre algoritmos simétricos (AES) y asimétricos, así como sus respectivos usos en confidencialidad frente a integridad (hash)
+
+A continuación se presenta el material de refuerzo basado en las fuentes proporcionadas, organizado en las tres áreas solicitadas para el curso de CyberOps:
+
+1. Talleres de Sintaxis de Comandos: Iptables y Nmap
+Para dominar estas herramientas, es fundamental comprender que el orden de los argumentos y la precisión de los modificadores determinan el éxito de la regla o del escaneo.
+A. Iptables (Firewall de Red)
+
+El firewall iptables utiliza el concepto de cadenas para filtrar el tráfico: INPUT (hacia el dispositivo), OUTPUT (desde el dispositivo) y FORWARD (tráfico que atraviesa el dispositivo).
+
+• Sintaxis Crítica: Un error común es el orden de los parámetros. La estructura recomendada es: sudo iptables -I [CADENA] -p [PROTOCOLO] -d [DESTINO] --dport [PUERTO] -j [ACCIÓN]
+• Modificadores Clave:
+    ◦ -I: Inserta una regla al inicio de la cadena (las reglas se procesan en orden; si una coincide, las demás se ignoran).
+    ◦ -L -v: Genera una lista de las cadenas y reglas en uso de forma detallada.
+    ◦ -p: Especifica el protocolo de capa 4 (ej. tcp, udp).
+    ◦ -d: Define la dirección IP de destino.
+    ◦ --dport: Especifica el puerto de destino.
+    ◦ -j DROP: Define la acción de descartar el paquete sin notificar al origen.
+• Ejemplo de Práctica: Para bloquear el tráfico TCP al puerto 6666 de una IP específica: sudo iptables -I FORWARD -p tcp -d 209.165.202.133 --dport 6666 -j DROP.
+
+B. Nmap (Exploración de Red)
+Nmap se utiliza para descubrir hosts y servicios en una red, identificar puertos abiertos y encontrar vulnerabilidades.
+• Modificadores de Rendimiento y Agresividad:
+    ◦ -A: Activa opciones avanzadas como detección del sistema operativo, versiones de servicios, escaneo de scripts y traceroute.
+    ◦ -T4: Establece una plantilla de temporización agresiva para una ejecución más rápida (recomendado para conexiones de banda ancha).
+• Orden de Argumentos: Generalmente nmap [OPCIONES] [OBJETIVO].
+    ◦ Escaneo local: nmap -A -T4 localhost.
+    ◦ Escaneo de red completa (usando prefijo CIDR): nmap -A -T4 10.0.2.0/24.
+
+--------------------------------------------------------------------------------
+2. Fundamentos de Linux: Visualización de Archivos y Análisis de Logs
+El análisis de registros es indispensable para la resolución de problemas y la seguridad. Es vital no confundir las herramientas de visualización según el tamaño del archivo o la necesidad de monitoreo.
+
+• Comando cat: Se utiliza para mostrar todo el contenido de un archivo en la pantalla de forma simple. Es muy útil para archivos pequeños, pero tiene la desventaja de que en archivos de texto grandes el inicio se pierde al desplazarse, ya que no admite saltos de página.
+• Comando more: Permite la visualización de archivos por páginas, mostrando el contenido de forma gradual. El usuario puede avanzar a la página siguiente con la tecla espacio, pero tiene como limitación que no siempre es fácil retroceder para ver páginas anteriores.
+• Comando less: Ofrece una visualización interactiva que es superior a more, ya que permite tanto avanzar como retroceder por el archivo usando las teclas de dirección. Para finalizar la visualización y salir de la herramienta, se utiliza la tecla "q".
+• Comando tail: Su función principal es ver el final de un archivo de texto. Por configuración predeterminada, muestra las últimas 10 líneas, aunque permite especificar una cantidad distinta mediante el modificador -n.
+• Comando tail -f: Se emplea para el monitoreo en tiempo real de archivos de registro (logs). Esta opción mantiene el archivo abierto en el terminal y muestra las nuevas entradas de datos inmediatamente después de que son escritas en el disco.
+
+Nota: El comando head (mencionado en su consulta pero con poca presencia en las fuentes) se utiliza para ver el inicio de un archivo, funcionando de forma opuesta a tail.
+
+--------------------------------------------------------------------------------
+3. Taxonomía Criptográfica: Confidencialidad vs. Integridad
+La criptografía moderna se divide según su propósito principal. Las fuentes destacan el uso de AES para ocultar datos y de Hash para verificar que no han sido alterados.
+
+
+Comparativa de Algoritmos y Usos
+1. Concepto: Propósito Principal
+• Cifrado Simétrico (AES): Su función principal es la confidencialidad, ocultando el significado real de los datos que se intercambian entre dispositivos,,.
+• Función Hash (SHA-256): Su propósito fundamental es asegurar la integridad, permitiendo verificar que los datos no han sido modificados durante su almacenamiento o transmisión,,.
+2. Concepto: Reversibilidad
+• Cifrado Simétrico (AES): Es un proceso reversible, ya que permite tanto cifrar el mensaje original como descifrar el texto cifrado resultante para volver a leerlo,,.
+• Función Hash (SHA-256): Es un proceso irreversible, diseñado para que sea matemáticamente muy difícil o imposible recuperar los datos originales a partir únicamente del valor hash generado.
+3. Concepto: Claves
+• Cifrado Simétrico (AES): Este algoritmo requiere obligatoriamente una clave secreta compartida (o contraseña) que deben conocer ambas partes para procesar la información,.
+• Función Hash (SHA-256): No utiliza claves; es un algoritmo matemático unidireccional que toma datos de entrada para generar un resultado.
+4. Concepto: Salida
+• Cifrado Simétrico (AES): El resultado es un texto cifrado que aparece como una serie de caracteres aleatorios e ilegibles para quien no posea la clave,,.
+• Función Hash (SHA-256): Genera una cadena de caracteres única de tamaño fijo, sin importar el volumen de los datos de entrada,.
+5. Concepto: Ejemplo de Uso
+• Cifrado Simétrico (AES): Se utiliza comúnmente en el envío de mensajes de correo electrónico, en la creación de túneles VPN y en el almacenamiento seguro de archivos sensibles
+• Función Hash (SHA-256): Se aplica en la verificación de integridad tras la descarga de archivos (mediante firmas .sig) y en la creación de huellas digitales para validar certificados de seguridad en navegadores,,.
+
+Cifrado Asimétrico y Certificados
+Aunque el cifrado simétrico (AES) es rápido, el sistema HTTPS depende de una Autoridad de Certificación (CA).
+• Asimétrico: Utiliza un par de claves (pública y privada). La CA firma un certificado que contiene la clave pública de una organización.
+• Huella Digital (Fingerprint): Es un hash calculado sobre el certificado que permite compararlos rápidamente para detectar ataques Man-In-The-Middle (MITM). Si el hash cambia, la información del certificado ha sido manipulada.
