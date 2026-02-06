@@ -1,4 +1,4 @@
-Material para revisar onceptos que fueron los que más fallaron en el examen de Enero del 2025  los alumnos de cisco ciberops:
+Material para revisar conceptos que fueron los que más fallaron en el examen final de Enero del 2025  los alumnos de cisco ciberops:
 
 • Talleres de Sintaxis de Comandos: Dedicar más tiempo a la práctica de comandos de iptables y nmap, insistiendo en la importancia de los modificadores y el orden de los argumentos.
 • Fundamentos de Linux: Reforzar el uso de comandos de visualización de archivos (head, tail, cat, more) para evitar confusiones en el análisis de logs.
