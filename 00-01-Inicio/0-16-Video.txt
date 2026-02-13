@@ -5,10 +5,6 @@ Tema 0 Presentación Feb.26
 Webex meeting recording: Presentación del curso CYBEROPS-F26-PA-20260213 1808-1
 Recording link: https://netacad.webex.com/netacad/ldr.php?RCID=b134ffd54ddff01e2482bbacb18c2bc6
 
-Tema 0 Presentación Sep.25
-Grabación de la reunión de Webex: CYBEROPS-S25-PA-20250912 1708-1
-Enlace de grabación: https://netacad.webex.com/netacad/ldr.php?RCID=7de50db46339c40456bc8c31e94efceb
-
 Tema 1. VirtualBox
 https://netacad.webex.com/webappng/sites/netacad/recording/a4d9fc67d2ad4d2a9daae3c29c6b5ca2/playback
 
