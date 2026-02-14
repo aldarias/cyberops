@@ -1,0 +1,18 @@
+EMISION DE CERTIFICADOS
+***********************
+Verificación de correo electrónico
+
+Estimado profesorado,
+ 
+muchas veces no nos llega la insignia o no se genera algún certificado
+(pdf) de nuestros estudiantes. Es una pregunta recurrente.
+ 
+Casi siempre es porque falta verificar la cuenta de email. A raíz de una
+consulta reciente al soporte Netacad, os paso la respuesta:
+ 
+*Los estudiantes pueden encontrar el enlace para verificar su correo
+electrónico bajo la sección de "Últimos Logros" en la página de "Mi
+aprendizaje". Una vez que verifiquen su correo electrónico las insignias y
+certificados otorgados aparecerán en las cuentas de los estudiantes. Esto
+también hará que usted pueda imprimir el certificado de finalización de la
+clase desde su libro de calificaciones.*
