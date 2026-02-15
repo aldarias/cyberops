@@ -24,8 +24,8 @@ MÓDULOS 26 - 27	18
 RESERVA FECHA EXAMEN FINAL PRESENCIAL	20
 CÓMO VA A SER EL EXAMEN FINAL PRESENCIAL	21
 
-[CISCOCYBEROPS] 
-INTRODUCCIÓN AL CURSO
+[CISCOCYBEROPS] MÓDULOS: 1 - 2
+
 Un saludo a todos y bienvenidos a la plataforma de e-learning netacad de Cisco. Soy Francisco Aldarias y voy a ser vuestro instructor en este curso.
 Siguiendo la planificación del curso, que podéis consultar en la página de inicio, esta semana la hemos dedicado a daros de alta en la plataforma y a solucionar los problemas puntuales asociados.
 Utilizaremos webex como medio de comunicación para poner dudas y el email como medio alternativo. 
@@ -33,24 +33,7 @@ Utilizaremos webex como medio de comunicación para poner dudas y el email como 
 Leer el documento de bienvenida:
 https://github.com/aldarias/cyberops/blob/main/00-01-Inicio/0-00-BienvenidaCyberops.pdf
 
-Un saludo.
-Paco Aldarias
-
-****************************************************
-[CISCOCYBEROPS] 
-PRESENTACIÓN
-Hola a tod@s
-Soy Paco Aldarias, vuestro profesor de cyberops y voy a presentarme. Soy de Valencia y tengo 57 años, estoy casado y tengo una hija. Soy ingeniero superior  de informática por la Universidad Politécnica de Valencia. Soy profesor titular de enseñanza secundaria y profesor en un centro donde se imparte redes,  desarrollo de aplicaciones web y móviles de titularidad  pública y a distancia de Valencia.
-Llevo impartiendo cursos de cisco en mentor durante 18 años
-Es la cuarta vez que imparto cyberops. 
-Haremos una reunión con webex el primer viernes del curso, para  presentarlo.
-Si quieres, te puedes presentar en el chat de webex.
-Un saludo
-
-[CISCOCYBEROPS] 
-MÓDULOS: 1 - 2
 ¡ Comenzamos con el contenido del curso !
-Siguiendo con la planificación del curso del x al y,
 Dura dos semanas, vamos a trabajar los módulos 1 y 2 del curso. Estudiaremos ataques muy conocidos y conceptos básicos como son el SOC y el agente de amenazas.
 Durante el curso os pediremos la entrega para su evaluación de alguna práctica obligatoria que habrá que superar con al menos un 70% para poder tener APTA y poder realizar el examen final.
 
@@ -61,12 +44,14 @@ Las tareas que debéis completar para estas semanas son:
     • Examen on-line de Cisco del Módulo 1 y 2. El examen se activará hasta el domingo a las 23:59.
     • Realizar las actividades propuestas. En este capítulo no tenéis que entregar ninguna de estas prácticas pero son fundamentales en vuestro proceso de formación.
     • Consultar y plantear  las dudas en el chat de webex
-    • Tenemos Reunión con webex con la presentación del curso.
+    • Tenemos reunión con webex con la presentación del curso la primera semana.
 
-[Enlace al curso]
-https://www.netacad.com/es/my-classes#
+Los exámenes están siempre activos, pero las fechas para realizarlos son las del calendario.
+No pasa nada si lo haces antes o después.
 
-Un saludo
+Un saludo.
+Paco Aldarias
+
 
 ****
 
