@@ -1,4 +1,14 @@
-*** Webs de Web-ex de interes:
+*** Comentarios sobre Webex
+
+El curso de cyberops tiene un canal general de webex que se crea al crear el curso,
+es decir, que al entrar vosotros a netacad os sale un icono de acceso al canal general del curso.
+
+Además para que podáis usar la app de escritorio, mando invitación de vuestro email.
+Para poder usarlo debéis previamente registraros en webex con el email que habéis dicho en mentor.
+
+Podéis compartir prácticas no evaluables para consultar dudas.
+
+****  Webs de Web-ex de interes:
 
 Descargar app escritorio webex (windos, linux, mac, android) !!Recomendado!!: https://www.webex.com/es/downloads.html 
 
@@ -9,3 +19,6 @@ Webex Teams (Grupos-Canales-Chats-Ficheros) https://web.webex.com/teams
 Webex Apps (GitHub Bots, Pollbot, ..) . https://apphub.webex.com/ 
 
 Sala Webex personal (reunión ahora): https://netacad.webex.com/meet/francisco.aldarias 
+
+
+
