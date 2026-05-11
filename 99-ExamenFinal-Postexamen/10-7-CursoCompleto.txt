@@ -7,7 +7,7 @@ Si recibes este correo es porque el tutor ha marcado en cisco que tienes el curs
 ya se puede generar el certificado correspondiente,  el cual será enviado a mentor para que se cuñe y 
 te lo envien en papel a tu dirección.
 
-También puedes descargarte digitalmente el cerficado en: Perfil > update profile > badges & certificates
+Debes descargarte digitalmente el cerficado en: Perfil > update profile > badges & certificates
 
 Si cumples los requisitos de nota, dentro de unos pocos dias verás que tienes un descuento o voucher 
 para poder examinarte en  cisco. Más info en:
