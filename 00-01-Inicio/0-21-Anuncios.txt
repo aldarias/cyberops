@@ -225,6 +225,7 @@ Realizar y entregar la práctica obligatoria "Práctica 4 - SNORT-WIRESHARK-IPTA
 Consultar el video para la práctica 4 en el fichero 0-16-Videos.txt
 Realizar los laboratorios y actividades opcionales propuestos
 Consultar y plantear  las dudas en el chat de webex
+Rellenar el formulario con la fecha  del examen final 
 
 [CISCOCYBEROPS] MÓDULO 28
 ¡ Abordamos el último módulo del curso ! ¡ Felicidades por haber llegado hasta aquí !
@@ -236,6 +237,7 @@ Realizar los laboratorios y actividades opcionales propuestos
 Hacer el examen obligatorio del bloque correspondiente a los módulos 26 al 28
 Consultar y plantear  las dudas en el chat de webex
 Webinar final de curso. Explicación del examen final.
+Rellenar el formulario con la fecha  del examen final 
 
 
 [CISCOCYBEROPS] RESERVA FECHA EXAMEN FINAL PRESENCIAL
