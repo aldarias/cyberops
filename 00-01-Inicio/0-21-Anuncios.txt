@@ -240,20 +240,26 @@ Webinar final de curso. Explicación del examen final.
 Rellenar el formulario con la fecha  del examen final 
 
 
-[CISCOCYBEROPS] RESERVA FECHA EXAMEN FINAL PRESENCIAL
-Según la planificación del curso, tenemos que realizar el examen final presencial a continución.
+[CISCOCYBEROPS] SEMANA FINAL DE REPASO. 
+
+Esta semana es para realizar las siguientes cosas:
+
+- Asegurate de haber apuntado la fecha y hora en el formulario de el examen final y reperación que has concertado con tu aula mentor.
+- Puedes hacer el test de satisfacción o feedback de cisco, mentor y profesor.
+- Webinar con Webex Examen Final Dudas. Nos reuniremos el último viernes a las 18h, en la semana anterior al examen.
 
 IMPORTANTE: Únicamente podrán presentarse a estos exámenes finales aquellos alumnos que tengan TODO APTO (>70%) y estén al corriente de los pagos de la matrícula.
 
-Tenéis que contactar con el administrador de vuestra Aula Mentor para acordar el día y la hora exacta del examen presencial y comunicar a la hora que habéis pactado.
-Tenéis que rellenar un formulario indicando cuando haréis el examen.
-Comunicadme el día y la hora acordada con el responsable del aula, para que pueda activar el examen.
-Webinar Examen Final Dudas.
+En el chat de webex podéis poner vuestras dudas al respecto. 
 
-CÓMO VA A SER EL EXAMEN FINAL PRESENCIAL
-Os explico cuál es la mecánica del examen final presencial.
 
-En el chat de webex podéis poner vuestras dudas al respecto. El examen tenéis que hacerlo de forma presencial, en un Aula Mentor, preferiblemente en el Aula Mentor en la que estéis inscritos. Os recuerdo que la nota mínima para aprobar cada examen es de un 70%.
+- Entrar en la carpeta postexamen del repositorio donde indica como será el examen:
+https://github.com/aldarias/cyberops/tree/main/98-ExamenFinal-Preparacion
+
+Aqui va un resumen:
+
+El examen tenéis que hacerlo de forma presencial, en un Aula Mentor, preferiblemente en el Aula Mentor en la que estéis inscritos. Os recuerdo que la nota mínima para aprobar cada examen es de un 70%.
+
 El examen final consta de 3 partes:
 
 Parte 1. Una encuesta obligatoria (course feedback - comentarios del curso) en esta misma plataforma Netacad de Cisco donde se evalúan cada una de las partes involucradas en el mismo: tutores, currículum, etc. Tendrá una duración de 10 minutos y se realizará como un examen online normal.
@@ -264,7 +270,10 @@ Parte 2. Un examen final online en la plataforma Netacad de Cisco, la misma en l
 Parte 3. Un examen escrito, elaborado por MENTOR, de máximo 1 hora y 15 minutos. Se trata de pequeños problemas o cuestiones teórico-prácticas relacionadas con los contenidos estudiados en el curso.
 
 CONSIDERACIONES SOBRE EL EXAMEN:
-El examen puesto por Cisco no se puede activar indefinidamente sino un día concreto y a una hora concreta. De ahí que me tengáis que decir día yhora exactos, que tenéis que pactar con el responsable de vuestra Aula Mentor, para que yo pueda activarlo, dentro de las fechas que se habilitarán en la semana de exámenes.
+El examen puesto por Cisco no se puede activar indefinidamente sino un día concreto y a una hora concreta. De ahí que me tengáis que decir día y hora exactos, que tenéis que pactar con el responsable de vuestra Aula Mentor, para que yo pueda activarlo, dentro de las fechas que se habilitarán en la semana de exámenes.
+
 Durante el examen final no podréis usar ningún tipo de apuntes, ni otra pantalla de navegador que no sea la del examen
+
+Empezar primero por el test y despues el práctico.
 
 
