@@ -11,7 +11,7 @@ Reconocimiento-NoComercial-CompartirIgual.
 ## Versiones
 
 
-
+* v7.0  7-9-2026
 * v6.0  1-2-2026
 * v5.0  1-9-2025
 * v4.0  1-2-2025
