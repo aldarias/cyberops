@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Videos Cyberops Mentor de Francisco Aldarias.">
+    <title>Videos Cyberops Mentor</title>
+    <style>
+      :root {
+        color-scheme: light;
+        font-family: Arial, Helvetica, sans-serif;
+        color: #17212b;
+        background: #f4f7f8;
+      }
+
+      * { box-sizing: border-box; }
+
+      body {
+        display: grid;
+        min-height: 100vh;
+        margin: 0;
+        place-items: center;
+        padding: 24px;
+      }
+
+      main {
+        width: min(680px, 100%);
+        border-top: 6px solid #0b7a75;
+        background: #ffffff;
+        box-shadow: 0 8px 24px rgb(23 33 43 / 12%);
+        padding: clamp(28px, 6vw, 52px);
+      }
+
+      h1 {
+        margin: 0 0 12px;
+        color: #0a4f57;
+        font-size: clamp(2rem, 7vw, 3.3rem);
+        font-weight: 700;
+        letter-spacing: 0;
+        line-height: 1.08;
+      }
+
+      .meta {
+        margin: 0;
+        color: #52616b;
+        font-size: 1rem;
+        line-height: 1.6;
+      }
+
+      .drive-link {
+        display: inline-flex;
+        align-items: center;
+        min-height: 44px;
+        margin: 32px 0;
+        border: 2px solid #0b7a75;
+        color: #075e5a;
+        font-weight: 700;
+        padding: 10px 16px;
+        text-decoration: none;
+      }
+
+      .drive-link:hover,
+      .drive-link:focus-visible {
+        background: #0b7a75;
+        color: #ffffff;
+      }
+
+      footer {
+        border-top: 1px solid #d7e0e3;
+        color: #52616b;
+        font-size: 0.9rem;
+        line-height: 1.55;
+        padding-top: 20px;
+      }
+
+      strong { color: #17212b; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Videos Cyberops Mentor</h1>
+      <p class="meta"><strong>Autor:</strong> Francisco Aldarias</p>
+      <p class="meta"><strong>Fecha:</strong> <time id="fecha-hoy"></time></p>
+
+      <a class="drive-link" href="https://drive.google.com/drive/folders/1fsUXlrbF3Mx7_Q_EcgknDw8cyRDI9AwWo?usp=sharing" target="_blank" rel="noopener noreferrer">
+        Abrir vídeos en Google Drive
+      </a>
+
+      <footer>
+        Aviso legal: No se permite la distribución de estos vídeos, conforme a la Ley Orgánica 3/2018.
+      </footer>
+    </main>
+    <script>
+      document.getElementById("fecha-hoy").textContent = new Intl.DateTimeFormat("es-ES", {
+        day: "2-digit",
+        month: "long",
+        year: "numeric"
+      }).format(new Date());
+    </script>
+  </body>
+</html>
