@@ -27,24 +27,20 @@ CÓMO VA A SER EL EXAMEN FINAL PRESENCIAL	21
 [CISCOCYBEROPS] MÓDULOS: 1 - 2
 
 Un saludo a todos y bienvenidos a la plataforma de e-learning netacad de Cisco. Soy Francisco Aldarias y voy a ser vuestro instructor en este curso.
-Siguiendo la planificación del curso, que podéis consultar en la página de inicio, esta semana la hemos dedicado a daros de alta en la plataforma y a solucionar los problemas puntuales asociados.
-Utilizaremos webex como medio de comunicación para poner dudas y el email como medio alternativo. 
 
-Leer el documento de bienvenida:
-https://github.com/aldarias/cyberops/blob/main/00-01-Inicio/0-00-BienvenidaCyberops.pdf
-
-¡ Comenzamos con el contenido del curso !
-Dura dos semanas, vamos a trabajar los módulos 1 y 2 del curso. Estudiaremos ataques muy conocidos y conceptos básicos como son el SOC y el agente de amenazas.
+Utilizaremos los foros del aula virtual lmsmentor como medio de comunicación para poner dudas y el email como medio alternativo. ¡ Comenzamos con el contenido del curso !
+Dura la semana siguiente, vamos a trabajar los módulos 1 y 2 del curso. Estudiaremos ataques muy conocidos y conceptos básicos como son el SOC y el agente de amenazas.
 Durante el curso os pediremos la entrega para su evaluación de alguna práctica obligatoria que habrá que superar con al menos un 70% para poder tener APTA y poder realizar el examen final.
+
 
 En el contenido del tema 1 práctica 1.1.5,  se os dará instrucciones para descargar e instalar la máquina virtual (VM) de CyberOps Workstation, que nos permitirá simular entornos reales de forma virtualizada. Esta MV es un fichero .ova que se puede encontrar en Contenidos - Recursos.
 En este caso no tenemos entregas obligatorias de prácticas, pero sí que tenemos el primer examen de Cisco, que es un examen obligatorio que se hace on-line y en el que hay que sacar al menos un 70% para aprobarlo.
 Las tareas que debéis completar para estas semanas son:
     • Estudiar en detalle los módulos 1 y 2, y realizar el cuestionario de autoevaluación al final de cada módulo.
-    • Examen on-line de Cisco del Módulo 1 y 2. El examen se activará hasta el domingo a las 23:59.
+    • Hay un examen on-line de Cisco del Módulo 1 y 2. 
     • Realizar las actividades propuestas. En este capítulo no tenéis que entregar ninguna de estas prácticas pero son fundamentales en vuestro proceso de formación.
-    • Consultar y plantear  las dudas en el chat de webex
-    • Tenemos reunión con webex con la presentación del curso la primera semana.
+    • Consultar y plantear  en en foro de alumnos
+
 
 Los exámenes están siempre activos, pero las fechas recomendadas para realizarlos son las del calendario.
 No pasa nada si lo haces antes o después.
