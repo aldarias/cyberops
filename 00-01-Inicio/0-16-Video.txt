@@ -1,6 +1,9 @@
 VIDEOS DEL CURSO.
 ******************
 
+IMPORTATE: SI estos video no funcionan utilizaremos los del Google-Drive:
+https://drive.google.com/drive/folders/1fsUXlrbF3Mx7Q_EcgknDw8cyRDI9AwWo?usp=sharing
+
 Tema 0 Presentación Feb.26
 Webex meeting recording: Presentación del curso CYBEROPS-F26-PA-20260213 1808-1
 Recording link: https://netacad.webex.com/netacad/ldr.php?RCID=b134ffd54ddff01e2482bbacb18c2bc6
