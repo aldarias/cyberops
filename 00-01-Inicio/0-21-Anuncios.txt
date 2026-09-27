@@ -24,7 +24,7 @@ MÓDULOS 26 - 27	18
 RESERVA FECHA EXAMEN FINAL PRESENCIAL	20
 CÓMO VA A SER EL EXAMEN FINAL PRESENCIAL	21
 
-[CISCOCYBEROPS] MÓDULOS: 1 - 2
+MÓDULOS: 1 - 2
 
 Un saludo a todos y bienvenidos a la plataforma de e-learning netacad de Cisco. Soy Francisco Aldarias y voy a ser vuestro instructor en este curso.
 
@@ -51,11 +51,11 @@ Paco Aldarias
 
 ****
 
-[CISCOCYBEROPS] MÓDULOS 3 - 4. Del 22 al 28 Sep
+
 MÓDULOS 3 - 4
 Siguiendo con la planificación del curso.
 Vamos a abordar el estudio de los Módulos 3 y 4. Van a ser unos módulos más prácticos. Estudiaremos conceptos básicos de sistemas operativos y algunas herramientas relacionadas con la seguridad.
-Si no habéis superado el examen del módulo 1-2 no os preocupéis, podréis volver a intentarlo en la semana de recuperaciones. 
+Si no habéis superado el examen del módulo 1-2 no os preocupéis, podréis volver a intentarlo en la semana final de repaso. 
 Consultar la planificación del curso. Ahora debéis centraros en los módulos de esta semana.
 ATENCIÓN: Esta semana tenéis que entregar la práctica obligatoria: ACTIVIDAD 1 - Administración básica de LINUX
 
@@ -64,7 +64,7 @@ Durante esta semana las actividades que tenéis que hacer son:
     • Realizar la autoevaluación del módulo
     • Realizar el examen correspondiente a los módulos 3 y 4
     • Realizar los laboratorios y actividades opcionales propuestos
-    • Consultar y plantear  las dudas en el chat de webex
+    • Consultar y plantear  las dudas en el foro de alumnos
     • Entregar la Práctica obligatoria: Actividad 1 - Administración de LINUX. 
 
 [Enlace al curso]
@@ -73,25 +73,25 @@ https://www.netacad.com/es/my-classes#
 Un saludo
 ****
 
-[CISCOCYBEROPS]  MÓDULOS 5 - 6. Del x al y.
+MÓDULOS 5 - 6. Del x al y.
 Vamos a trabajar unos módulos relacionados con redes y protocolos de comunicación.
 Las actividades que tenéis que hacer son:
     • Estudiar en detalle los módulos 5-6 del currículum
     • Realizar la autoevaluación del módulo
     • Esta semana no tenemos examen de los módulos, porque se hará al final del módulo 10
     • Realizar los laboratorios y actividades opcionales propuestos
-    • Consultar y plantear  las dudas en el chat de webex
+    • Consultar y plantear en el foro de alumnos
     
 ****
 
-[CISCOCYBEROPS] MÓDULOS 7 - 8. Del x al y 
+MÓDULOS 7 - 8. Del x al y 
 Vamos a trabajar los módulos 7 y 8 del curso.
 Las actividades para esta semana son:
     • Estudiar en detalle los módulos 7-8 del currículum
     • Realizar la autoevaluación del módulo
     • Esta semana tampoco tenemos examen de los módulos, porque se hará al final del módulo 10
     • Realizar los laboratorios y actividades opcionales propuestos
-    • Consultar y plantear  las dudas en el chat de webex
+    • Consultar y plantear en el foro de alumnos
 
 [CISCOCYBEROPS] MÓDULOS 9 - 10
 Siguiendo con la planificación del curso y, abordamos los 2 últimos módulos de este bloque.
@@ -102,7 +102,7 @@ Durante esta semana las actividades que tenéis que hacer son:
     • Realizar la autoevaluación del módulo
     • Superar el examen de los módulos 5 al 10
     • Realizar los laboratorios y actividades opcionales propuestos
-    • Consultar y plantear  las dudas en el chat de webex
+    • Consultar y plantear en el foro de alumnos
 
 [CISCOCYBEROPS] MÓDULOS 11 - 12
 Módulos 11 y 12 del curso, siguiendo con la planificación del curso. 
@@ -114,7 +114,7 @@ Durante esta semana las actividades que tenéis que hacer son:
     • Superar el examen de los módulos 11-12, hasta el domingo 30 de octubre
     • Realizar los laboratorios y actividades opcionales propuestos
     • Entregar la actividad 2 acl, que utiliza el tema 12.
-    • Consultar y plantear  las dudas en el chat de webex
+    • Consultar y plantear en el foro de alumnos
 
 [CISCOCYBEROPS] MÓDULOS 13 - 14
 Esta semana vamos a trabajar los módulos 13 y 14 del curso. 
@@ -137,7 +137,7 @@ Durante esta semana las actividades que tenéis que hacer son:
     • Realizar la autoevaluación del módulo
     • No tenemos examen online de módulos, será al final del módulo 17
     • Realizar los laboratorios y actividades opcionales propuestos
-    • Consultar y plantear  las dudas en el chat de webex
+    • Consultar y plantear en el foro de alumnos
     • Se enviará emails a los alummnos morosos de pagos para que se pongan al dia. 
 
 
@@ -150,7 +150,7 @@ Durante esta semana las actividades que tenéis que hacer son:
     • Realizar la autoevaluación del módulo 17
     • Realizar el examen online del bloque de módulos 13 al 17. 
     • Realizar los laboratorios y actividades opcionales propuestos
-    • Consultar y plantear  las dudas en el chat de webex
+    • Consultar y plantear en el foro de alumnos
     • Se congelará a los alumnos morosos hasta que se pongan al dia.
 
 [CISCOCYBEROPS] SEMANA DE RECUPERACIONES. Del 21 al 27 abril.
@@ -165,7 +165,7 @@ Durante esta semana las actividades que tenéis que hacer son:
 Estudiar en detalle los módulos 18 y 19 del currículum
 Realizar la autoevaluación
 Realizar los laboratorios y actividades opcionales propuestos
-Consultar y plantear  las dudas en el chat de webex
+Consultar y plantear  en el foro de alumnos
 
 [CISCOCYBEROPS] MÓDULO 20
 Esta semana vamos a trabajar el Módulo 20 que trata los servicios de inteligencia contra amenazas. Tendréis que realizar el examen del bloque de módulos del 18 al 20.
@@ -184,7 +184,7 @@ Estudiar en detalle el módulo 21 y 22 del currículum
 Realizar la autoevaluación del módulo
 Entregar resuelta la ACTIVIDAD 3 - CIFRADO DE DATOS
 Realizar los laboratorios y actividades opcionales propuestos
-Consultar y plantear  las dudas en el chat de webex
+Consultar y plantear  las dudas en el foro de alumnos
 Webinar Prac 3. Módulo 21. SHA 
 Rellenar el formulario de fecha y hora del examen final.
 
@@ -196,7 +196,7 @@ Durante esta semana las actividades que tenéis que hacer son:
     • Entregar Actividad 3 sobre cifrado de datos que se trata en el tema 21.
     • Realizar el examen online del bloque de módulos 21 al 23. 
     • Realizar los laboratorios y actividades opcionales propuestos
-    • Consultar y plantear  las dudas en el chat de webex
+    • Consultar y plantear en el foro de alumnos
 
 [CISCOCYBEROPS] MÓDULOS 24 - 25. 
 Ánimo que estamos llegando al final del curso.
@@ -208,7 +208,7 @@ Realizar la autoevaluación del módulo
 Realizar el examen online del bloque de módulos 24 al 25
 Realizar los laboratorios y actividades opcionales propuestos
 Queda un mes para los exámenes, habla con tu aula para concretar fechas de exámenes finales.
-Consultar y plantear  las dudas en el chat de webex
+Consultar y plantear  las dudas en el foro de alumnos
 
 [CISCOCYBEROPS] MÓDULOS 26 - 27. 
 Ya estamos llegando al final del curso. Os animo a intensificar el trabajo y dar un último empujón.
@@ -220,7 +220,7 @@ Realizar la autoevaluación del módulo
 Realizar y entregar la práctica obligatoria "Práctica 4 - SNORT-WIRESHARK-IPTABLES" que corresponde al módulo 26.
 Consultar el video para la práctica 4 en el fichero 0-16-Videos.txt
 Realizar los laboratorios y actividades opcionales propuestos
-Consultar y plantear  las dudas en el chat de webex
+Consultar y plantear  las dudas en el foro de alumnos
 Rellenar el formulario con la fecha  del examen final 
 
 [CISCOCYBEROPS] MÓDULO 28
@@ -231,7 +231,7 @@ Estudiar en detalle el módulo 28 del currículum
 Hacer la autoevaluación del módulo 28
 Realizar los laboratorios y actividades opcionales propuestos
 Hacer el examen obligatorio del bloque correspondiente a los módulos 26 al 28
-Consultar y plantear  las dudas en el chat de webex
+Consultar y plantear  las dudas en el foro de alumnosen el foro de alumnos
 Webinar final de curso. Explicación del examen final.
 Rellenar el formulario con la fecha  del examen final 
 
