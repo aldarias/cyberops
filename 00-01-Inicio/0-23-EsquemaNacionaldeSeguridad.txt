@@ -1,7 +1,6 @@
 Esquema Nacional de Seguridad (ENS) / Ciberseguridad 
 ***
-El Esquema Nacional de Seguridad (ENS) es un marco normativo español que establece los requisitos y estándares para garantizar la seguridad de la información en las administraciones públicas 
-y en los proveedores que colaboran con la Administración. Su objetivo principal es proteger los datos y sistemas de información, asegurando su:
+El Esquema Nacional de Seguridad (ENS) es un marco normativo español que establece los requisitos y estándares para garantizar la seguridad de la información en las administraciones públicas y en los proveedores que colaboran con la Administración. Su objetivo principal es proteger los datos y sistemas de información, asegurando su:
     Confidencialidad
     Integridad
     Disponibilidad
