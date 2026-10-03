@@ -58,6 +58,8 @@ Vamos a abordar el estudio de los Módulos 3 y 4. Van a ser unos módulos más p
 Si no habéis superado el examen del módulo 1-2 no os preocupéis, podréis volver a intentarlo en la semana final de repaso. 
 Consultar la planificación del curso. Ahora debéis centraros en los módulos de esta semana.
 ATENCIÓN: Esta semana tenéis que entregar la práctica obligatoria: ACTIVIDAD 1 - Administración básica de LINUX
+El enlace a las práctica está en netacad apartado práticas evaluables.
+
 
 Durante esta semana las actividades que tenéis que hacer son:
     • Estudiar en detalle los módulos 3-4 del currículum
@@ -67,8 +69,6 @@ Durante esta semana las actividades que tenéis que hacer son:
     • Consultar y plantear  las dudas en el foro de alumnos
     • Entregar la Práctica obligatoria: Actividad 1 - Administración de LINUX. 
 
-[Enlace al curso]
-https://www.netacad.com/es/my-classes#
 
 Un saludo
 ****
