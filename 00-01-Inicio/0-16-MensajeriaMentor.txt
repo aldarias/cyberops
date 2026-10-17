@@ -1,17 +1,27 @@
-COMUNICACIÓN EN MENTOR
+COMUNICACIÓN CON EL PROFESOR TUTOR DE MENTOR
 **********************
 Por Paco Aldarias
-29-11-2024
+15-10-2026
+
 
 Existen las siguiente formas de comunicarse el alumno con el profesor en mentor.
 
-1. Accediendo al centro virtual de formación (CVF) con moodle. 
+RECOMENDADAS:
+1. DUDAS DE INTERES DEL GRUPO:
+Accediendo al centro virtual de formación (CVF) con moodle. 
 https://lmsmentor.educacion.es/my/
-Entrar al foro de alumnos o bien envió de mensaje al profesor.
+Entrar al foro de alumnos
 
-2. Email de Mentor.
+2. DUDAS PERSONALES.
+Email de Mentor.
 Mediante el correo del profesor.
 francisco.aldarias@aulamentor.es
+
+NO RECOMENDADAS:
+3. DUDAS PERSONALES.
+Mensaje privado por el aula virtual - moodle- lmsmentor
+Deja el mensaje pegado y manda email. Genea redundancia de mensajes
+No permite adjuntos.
 
 
 
